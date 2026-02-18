@@ -21,3 +21,8 @@ colorama>=0.4.6          # Pretty printing for logs
 # --- Testing & Quality Assurance ---
 pytest>=7.0.0            # Unit Testing framework
 pytest-asyncio>=0.23.0   # Async testing support
+
+# --- Web API & Server (CRITICAL - MISSING) ---
+fastapi>=0.109.0         # The Web Framework you are using
+uvicorn[standard]>=0.27.0 # The Server that runs the Python app
+python-multipart>=0.0.9  # Required if you upload files (PDFs) to the API

@@ -1,0 +1,192 @@
+{
+  "company_name": "Maruti Suzuki India Ltd",
+  "report_period": "FY 2024-25",
+  "overall_risk_score": "Medium",
+  "executive_summary": {
+    "overview": "Maruti Suzuki India Ltd demonstrates a commitment to responsible business conduct, with established policies and mechanisms for stakeholder engagement. Key strengths include comprehensive health and safety management systems, a focus on environmental sustainability, and robust grievance redressal processes. However, there are areas for improvement, such as enhancing gender diversity in key management positions and ensuring consistent implementation of human rights requirements across the value chain.",
+    "key_finding": "While the company has a strong commitment to environmental sustainability, there is a need to enhance gender diversity in key management positions."
+  },
+  "labor_code_analysis": {
+    "wages": {
+      "minimum_wage_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Permanent Employees 14,280 0 0% 14,280 100%",
+        "metric_value": null,
+        "source_ref": "[Source: Maruti_Suzuki_Ltd_BRSR_Report.pdf, Page 24]"
+      },
+      "equal_pay_status": {
+        "status": "Risk Identified",
+        "evidence_snippet": "Median remuneration/ salary/ wages of respective category",
+        "metric_value": null,
+        "source_ref": "[Source: Maruti_Suzuki_Ltd_BRSR_Report.pdf, Page 24]"
+      },
+      "profit_sharing_status": {
+        "status": "Not Disclosed",
+        "evidence_snippet": "Not applicable",
+        "metric_value": null,
+        "source_ref": "[Source: Maruti_Suzuki_Ltd_BRSR_Report.pdf, Page NA]"
+      }
+    },
+    "osh": {
+      "safety_systems_status": {
+        "status": "Compliant",
+        "evidence_snippet": "The Company has established a robust Occupational Health and Safety Management System (OHSMS) aligned with ISO 45001:2018 standards across its operations.",
+        "metric_value": "ISO 45001:2018",
+        "source_ref": "[Source: Maruti_Suzuki_Ltd_BRSR_Report.pdf, Page 27]"
+      },
+      "accident_records_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours worked) *",
+        "metric_value": null,
+        "source_ref": "[Source: Maruti_Suzuki_Ltd_BRSR_Report.pdf, Page 28]"
+      },
+      "audit_scores_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Independent third-party safety audits of all plant locations",
+        "metric_value": null,
+        "source_ref": "[Source: Maruti_Suzuki_Ltd_BRSR_Report.pdf, Page 29]"
+      }
+    },
+    "ir": {
+      "unionization_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Total Permanent Workers 5,686 5,552 97.64%",
+        "metric_value": "97.64%",
+        "source_ref": "[Source: Maruti_Suzuki_Ltd_BRSR_Report.pdf, Page 26]"
+      },
+      "collective_bargaining_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Regular Workers' Representatives Meetings are held with the Managing Director, Executive Officers, and Plant Heads to provide a direct channel for feedback and grievance resolution.",
+        "metric_value": null,
+        "source_ref": "[Source: Maruti_Suzuki_Ltd_BRSR_Report.pdf, Page 26]"
+      },
+      "disputes_strikes_status": {
+        "status": "N/A",
+        "evidence_snippet": "Not applicable",
+        "metric_value": null,
+        "source_ref": "[Source: Maruti_Suzuki_Ltd_BRSR_Report.pdf, Page NA]"
+      }
+    },
+    "social_security": {
+      "leave_policy_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Not applicable",
+        "metric_value": null,
+        "source_ref": "[Source: Maruti_Suzuki_Ltd_BRSR_Report.pdf, Page NA]"
+      },
+      "retirement_benefits_status": {
+        "status": "Compliant",
+        "evidence_snippet": "PF 100%",
+        "metric_value": "100%",
+        "source_ref": "[Source: Maruti_Suzuki_Ltd_BRSR_Report.pdf, Page 25]"
+      },
+      "healthcare_welfare_status": {
+        "status": "Compliant",
+        "evidence_snippet": "the Company provide its employees with health care services PAN India by directly empanelling reputed hospitals for all health related issues and annual health check-ups.",
+        "metric_value": null,
+        "source_ref": "[Source: Maruti_Suzuki_Ltd_BRSR_Report.pdf, Page 28]"
+      }
+    }
+  },
+  "supply_chain_compliance": {
+    "due_diligence": {
+      "status": "Compliant",
+      "evidence_snippet": "MSIL has implemented exclusive Green Procurement Guidelines that are mandatory for all Tier 1 suppliers.",
+      "metric_value": null,
+      "source_ref": "[Source: Maruti_Suzuki_Ltd_BRSR_Report.pdf, Page 22]"
+    },
+    "forced_labor_policies": {
+      "status": "Compliant",
+      "evidence_snippet": "The Company integrates human rights clauses into its Basic Purchase Agreements, requiring suppliers to: Prohibit forced or involuntary labour",
+      "metric_value": null,
+      "source_ref": "[Source: Maruti_Suzuki_Ltd_BRSR_Report.pdf, Page 31]"
+    },
+    "conflict_minerals": {
+      "status": "Not Disclosed",
+      "evidence_snippet": "Not applicable",
+      "metric_value": null,
+      "source_ref": "[Source: Maruti_Suzuki_Ltd_BRSR_Report.pdf, Page NA]"
+    },
+    "principal_employer_liability": "The company has a mechanism in place to assess and monitor the safety performance of component suppliers. The Company requires its suppliers to implement time-bound corrective actions in response to the assessment recommendations. Besides, the Company also provides awareness sessions and shares best practices with the suppliers to continuously improve occupational health and safety systems"
+  },
+  "business_impact": {
+    "operational_efficiency": "The Company has a comprehensive Business Continuity and Disaster Management Plan to ensure operational resilience and employee safety during disruptions.",
+    "financial_performance": "Cost incurred on well-being measures as a % of total revenue of the company 0.37%",
+    "brand_reputation": "The Company’s average fleet carbon emissions remain significantly below the industry average. Furthermore, it has consistently outperformed its",
+    "innovation_rnd": "32% reduction in packaging material in the 4th Generation Dzire compared to its predecessor."
+  },
+  "strategic_plan": {
+    "recommendations": [
+      "Enhance gender diversity in key management positions.",
+      "Ensure consistent implementation of human rights requirements across the value chain.",
+      "Strengthen mechanisms for addressing community grievances.",
+      "Continue to invest in renewable energy and circular economy initiatives."
+    ]
+  },
+  "workforce_profile": [
+    {
+      "category": "Permanent Employees",
+      "total_count": "14,280",
+      "male_count": "13,279",
+      "female_count": "1,001",
+      "turnover_rate": "3.99%"
+    },
+    {
+      "category": "Other than Permanent Employees",
+      "total_count": "1,621",
+      "male_count": "1,540",
+      "female_count": "81",
+      "turnover_rate": "N/A"
+    },
+    {
+      "category": "Permanent Workers",
+      "total_count": "5,686",
+      "male_count": "5,679",
+      "female_count": "7",
+      "turnover_rate": "0.56%"
+    },
+    {
+      "category": "Other than Permanent Workers",
+      "total_count": "24,358",
+      "male_count": "24,309",
+      "female_count": "49",
+      "turnover_rate": "N/A"
+    }
+  ],
+  "supply_chain_profile": [
+    {
+      "vendor_name": "OE Component suppliers",
+      "relationship": "Value chain partner",
+      "compliance_status": "ISO 45001:2018 certified",
+      "key_metrics": "95% of the domestic Original Equipment (OE) suppliers by value have been assessed and awarded ISO 45001:2018 certification by relevant auditors."
+    }
+  ],
+  "api_financials": {
+    "revenue": "1,519,001",
+    "ebitda": "177,852",
+    "net_income": "139,552",
+    "employee_cost": "61,370"
+  },
+  "labour_code_impact": {
+    "provision_amount": "5,939 mn",
+    "impact_description": "employee benefit expenses include one off expense related to new labour code",
+    "fiscal_period": "Q3FY26"
+  },
+  "business_intel": null,
+  "vendors": [
+    "Refer to Annual Report Note: Related Party Disclosures"
+  ],
+  "Company": "Maruti Suzuki India Ltd",
+  "Period": "FY 2024-25",
+  "Risk Score": "Medium",
+  "Labour_Provision": "5,939 mn",
+  "Labour_Provision_Desc": "employee benefit expenses include one off expense related to new labour code",
+  "Top_Products": "N/A",
+  "Major_Customers": "N/A",
+  "Top_Vendors": "Refer to Annual Report Note: Related Party Disclosures",
+  "Wage_Status": "Compliant",
+  "Workforce_Turnover": "3.99%",
+  "Health_Status": "Compliant",
+  "Strike_Risk": "N/A",
+  "Strategic_Action": "Enhance gender diversity in key management positions."
+}
