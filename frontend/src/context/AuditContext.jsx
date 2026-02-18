@@ -48,7 +48,7 @@ export const AuditProvider = ({ children }) => {
 
     try {
       // 1. Establish WebSocket Connection to Backend
-      const ws = new WebSocket("ws://localhost:8000/ws/audit");
+      const ws = new WebSocket("wss://auto-labor-compliance-agent-production.up.railway.app/ws/audit");
 
       // 2. Send Start Command
       ws.onopen = () => {
@@ -76,7 +76,7 @@ export const AuditProvider = ({ children }) => {
             try {
                 // Fetch the final generated JSON report
                 // We reuse the compare endpoint logic since it fetches by company name
-                const response = await fetch('http://localhost:8000/api/compare', {
+                const response = await fetch('https://auto-labor-compliance-agent-production.up.railway.app/api/compare', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ companies: [companyName] })
