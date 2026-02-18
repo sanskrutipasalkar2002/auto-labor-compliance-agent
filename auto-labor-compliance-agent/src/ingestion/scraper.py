@@ -1,0 +1,1 @@
+# Web scraping logic for BSE/NSE

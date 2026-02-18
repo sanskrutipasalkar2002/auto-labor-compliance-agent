@@ -1,0 +1,231 @@
+{
+  "company_name": "Hero MotoCorp",
+  "report_period": "FY 2024-25",
+  "overall_risk_score": "Medium",
+  "executive_summary": {
+    "overview": "Hero MotoCorp demonstrates a commitment to various aspects of labor compliance, including employee well-being, safety, and diversity. However, there are areas where disclosures are lacking, particularly regarding wages and supply chain due diligence. Further investigation is needed to fully assess compliance risks.",
+    "key_finding": "While Hero MotoCorp demonstrates a commitment to employee well-being and safety, there is a lack of transparency regarding wages and supply chain due diligence, indicating potential compliance risks."
+  },
+  "labor_code_analysis": {
+    "wages": {
+      "minimum_wage_status": {
+        "status": "Compliant",
+        "evidence_snippet": "All employees and workers are paid more than minimum wage.",
+        "metric_value": null,
+        "source_ref": "[Source: Quarterly Results (Hero_MotoCorp_Financial_Results_Q3.pdf), Investor Presentation (Hero_MotoCorp_Investor_Presentation.pdf), Annual Financial Report (Hero_MotoCorp_Annual_Report_Vendors.pdf)]"
+      },
+      "equal_pay_status": {
+        "status": "Risk Identified",
+        "evidence_snippet": "Ratio of remuneration of women to men",
+        "metric_value": null,
+        "source_ref": "[Source: Quarterly Results (Hero_MotoCorp_Financial_Results_Q3.pdf), Investor Presentation (Hero_MotoCorp_Investor_Presentation.pdf), Annual Financial Report (Hero_MotoCorp_Annual_Report_Vendors.pdf)]"
+      },
+      "profit_sharing_status": {
+        "status": "N/A",
+        "evidence_snippet": "No mention of profit sharing.",
+        "metric_value": null,
+        "source_ref": "[Source: Quarterly Results (Hero_MotoCorp_Financial_Results_Q3.pdf), Investor Presentation (Hero_MotoCorp_Investor_Presentation.pdf), Annual Financial Report (Hero_MotoCorp_Annual_Report_Vendors.pdf)]"
+      }
+    },
+    "osh": {
+      "safety_systems_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Recognising excellence in workplace health, safety and well ‑ being.",
+        "metric_value": null,
+        "source_ref": "[Source: Quarterly Results (Hero_MotoCorp_Financial_Results_Q3.pdf), Investor Presentation (Hero_MotoCorp_Investor_Presentation.pdf), Annual Financial Report (Hero_MotoCorp_Annual_Report_Vendors.pdf)]"
+      },
+      "accident_records_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Our Ride Safe Training Programme touched 24.67 lakh beneficiaries (cumulatively), strengthening road safety awareness across geographies and demographics.",
+        "metric_value": null,
+        "source_ref": "[Source: Quarterly Results (Hero_MotoCorp_Financial_Results_Q3.pdf), Investor Presentation (Hero_MotoCorp_Investor_Presentation.pdf), Annual Financial Report (Hero_MotoCorp_Annual_Report_Vendors.pdf)]"
+      },
+      "audit_scores_status": {
+        "status": "Positive",
+        "evidence_snippet": "Honoured with the Sword of Honour and a Five-Star Rating award by the British Safety Council.",
+        "metric_value": null,
+        "source_ref": "[Source: Quarterly Results (Hero_MotoCorp_Financial_Results_Q3.pdf), Investor Presentation (Hero_MotoCorp_Investor_Presentation.pdf), Annual Financial Report (Hero_MotoCorp_Annual_Report_Vendors.pdf)]"
+      }
+    },
+    "ir": {
+      "unionization_status": {
+        "status": "Risk Identified",
+        "evidence_snippet": "The workmen were paid wages in accordance to the settlement with the union of the workers.",
+        "metric_value": null,
+        "source_ref": "[Source: Quarterly Results (Hero_MotoCorp_Financial_Results_Q3.pdf), Investor Presentation (Hero_MotoCorp_Investor_Presentation.pdf), Annual Financial Report (Hero_MotoCorp_Annual_Report_Vendors.pdf)]"
+      },
+      "collective_bargaining_status": {
+        "status": "Compliant",
+        "evidence_snippet": "The workmen were paid wages in accordance to the settlement with the union of the workers.",
+        "metric_value": null,
+        "source_ref": "[Source: Quarterly Results (Hero_MotoCorp_Financial_Results_Q3.pdf), Investor Presentation (Hero_MotoCorp_Investor_Presentation.pdf), Annual Financial Report (Hero_MotoCorp_Annual_Report_Vendors.pdf)]"
+      },
+      "disputes_strikes_status": {
+        "status": "N/A",
+        "evidence_snippet": "No mention of disputes or strikes.",
+        "metric_value": null,
+        "source_ref": "[Source: Quarterly Results (Hero_MotoCorp_Financial_Results_Q3.pdf), Investor Presentation (Hero_MotoCorp_Investor_Presentation.pdf), Annual Financial Report (Hero_MotoCorp_Annual_Report_Vendors.pdf)]"
+      }
+    },
+    "social_security": {
+      "leave_policy_status": {
+        "status": "Compliant",
+        "evidence_snippet": "flexible leave policies",
+        "metric_value": null,
+        "source_ref": "[Source: Quarterly Results (Hero_MotoCorp_Financial_Results_Q3.pdf), Investor Presentation (Hero_MotoCorp_Investor_Presentation.pdf), Annual Financial Report (Hero_MotoCorp_Annual_Report_Vendors.pdf)]"
+      },
+      "retirement_benefits_status": {
+        "status": "Compliant",
+        "evidence_snippet": "contribution to Provident Fund and other funds",
+        "metric_value": null,
+        "source_ref": "[Source: Quarterly Results (Hero_MotoCorp_Financial_Results_Q3.pdf), Investor Presentation (Hero_MotoCorp_Investor_Presentation.pdf), Annual Financial Report (Hero_MotoCorp_Annual_Report_Vendors.pdf)]"
+      },
+      "healthcare_welfare_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Mobile Medical Units extended critical healthcare services to underserved communities, benefitting more than 1,20,000 individuals",
+        "metric_value": null,
+        "source_ref": "[Source: Quarterly Results (Hero_MotoCorp_Financial_Results_Q3.pdf), Investor Presentation (Hero_MotoCorp_Investor_Presentation.pdf), Annual Financial Report (Hero_MotoCorp_Annual_Report_Vendors.pdf)]"
+      }
+    }
+  },
+  "supply_chain_compliance": {
+    "due_diligence": {
+      "status": "Risk Identified",
+      "evidence_snippet": "We also made progress in scooters— Xoom 125, Destini 125 drove strong footfall and conversion growth.",
+      "metric_value": null,
+      "source_ref": "[Source: Quarterly Results (Hero_MotoCorp_Financial_Results_Q3.pdf), Investor Presentation (Hero_MotoCorp_Investor_Presentation.pdf), Annual Financial Report (Hero_MotoCorp_Annual_Report_Vendors.pdf)]"
+    },
+    "forced_labor_policies": {
+      "status": "Compliant",
+      "evidence_snippet": "Our steady shift towards renewable energy enabled us to achieve 45% carbon neutrality in FY 2024-25, marking a decisive step on our lowcarbon journey.",
+      "metric_value": null,
+      "source_ref": "[Source: Quarterly Results (Hero_MotoCorp_Financial_Results_Q3.pdf), Investor Presentation (Hero_MotoCorp_Investor_Presentation.pdf), Annual Financial Report (Hero_MotoCorp_Annual_Report_Vendors.pdf)]"
+    },
+    "conflict_minerals": {
+      "status": "N/A",
+      "evidence_snippet": "No mention of conflict minerals.",
+      "metric_value": null,
+      "source_ref": "[Source: Quarterly Results (Hero_MotoCorp_Financial_Results_Q3.pdf), Investor Presentation (Hero_MotoCorp_Investor_Presentation.pdf), Annual Financial Report (Hero_MotoCorp_Annual_Report_Vendors.pdf)]"
+    },
+    "principal_employer_liability": "The company may have liability as a principal employer for contract labor."
+  },
+  "business_impact": {
+    "operational_efficiency": "Operational efficiency is driven by digital transformation and operational achievements.",
+    "financial_performance": "Strong financial performance with highest ever revenue and profit.",
+    "brand_reputation": "Recognized as a global leader in mobility and sustainable innovation.",
+    "innovation_rnd": "Investments in R&D drive innovation and future-ready mobility solutions."
+  },
+  "strategic_plan": {
+    "recommendations": [
+      "Enhance transparency in wage disclosures and ensure equal pay for equal work.",
+      "Implement a robust due diligence process for supply chain partners to mitigate forced labor risks.",
+      "Develop a comprehensive plan for managing the transition to electric vehicles, including workforce training and reskilling.",
+      "Strengthen community engagement and social responsibility initiatives to address local needs and promote sustainable development."
+    ]
+  },
+  "workforce_profile": [
+    {
+      "category": "Permanent Employees",
+      "total_count": "4,839",
+      "male_count": "4,197",
+      "female_count": "N/A",
+      "turnover_rate": "12.86 %"
+    },
+    {
+      "category": "Permanent Workers",
+      "total_count": "4,688",
+      "male_count": "4,679",
+      "female_count": "N/A",
+      "turnover_rate": "2.93 %"
+    }
+  ],
+  "supply_chain_profile": [
+    {
+      "vendor_name": "Rockman Industries Ltd.",
+      "relationship": "Supplier of aluminium die-casting, machined and painted assemblies",
+      "compliance_status": "Not Specified",
+      "key_metrics": "Not Specified"
+    },
+    {
+      "vendor_name": "Marelli Europe S.p.A",
+      "relationship": "Joint venture partner for two-wheeler fuel injection systems",
+      "compliance_status": "Not Specified",
+      "key_metrics": "Not Specified"
+    }
+  ],
+  "api_financials": {
+    "revenue": "40,756 crore",
+    "ebitda": "5,868 Crore",
+    "net_income": "4,610 crore",
+    "employee_cost": "5,828 crore"
+  },
+  "labour_code_impact": {
+    "provision_amount": "Rs.119 Crore",
+    "impact_description": "impact of four New Labour Codes",
+    "fiscal_period": "November 21, 2025"
+  },
+  "business_intel": {
+    "key_products": [
+      "HF Deluxe",
+      "Passion+",
+      "Splendor+ XTEC",
+      "HF 100",
+      "Splendor+",
+      "Splendor+ XTEC 2.0",
+      "Passion Pro",
+      "Super Splendor",
+      "Glamour XTEC",
+      "Passion XTEC",
+      "Super Splendor XTEC",
+      "Glamour Canvas",
+      "Xtreme 160R 4V",
+      "Xpulse 200 4V",
+      "Xtreme 250R",
+      "Xtreme 160R",
+      "Karizma XMR",
+      "Xpulse 210",
+      "Mavrick 440",
+      "Xoom",
+      "Xoom 125",
+      "Destini Prime",
+      "New Destini 125",
+      "VIDA V2 PRO",
+      "VIDA V2 PLUS",
+      "Xoom 160",
+      "Pleasure XTEC+",
+      "VIDA V2 LITE",
+      "Fatboy",
+      "Street Glide Touring Bagger",
+      "Heritage Classic",
+      "Softail Cruiser",
+      "Fatbob Cruiser",
+      "Road Glide Touring Bagger",
+      "Nightster Sport",
+      "Nightster Special Sport",
+      "Pan America",
+      "Sportster S Performance Cruiser",
+      "X440"
+    ],
+    "major_customers": [
+      "Indian Army"
+    ],
+    "market_position": "world's largest manufacturer of motorcycles and scooters"
+  },
+  "vendors": [
+    "Rockman Industries Ltd.",
+    "Marelli Europe S.p.A"
+  ],
+  "Company": "Hero MotoCorp",
+  "Period": "FY 2024-25",
+  "Risk Score": "Medium",
+  "Labour_Provision": "Rs.119 Crore",
+  "Labour_Provision_Desc": "impact of four New Labour Codes",
+  "Top_Products": "HF Deluxe, Passion+, Splendor+ XTEC, HF 100, Splendor+, Splendor+ XTEC 2.0, Passion Pro, Super Splendor, Glamour XTEC, Passion XTEC, Super Splendor XTEC, Glamour Canvas, Xtreme 160R 4V, Xpulse 200 4V, Xtreme 250R, Xtreme 160R, Karizma XMR, Xpulse 210, Mavrick 440, Xoom, Xoom 125, Destini Prime, New Destini 125, VIDA V2 PRO, VIDA V2 PLUS, Xoom 160, Pleasure XTEC+, VIDA V2 LITE, Fatboy, Street Glide Touring Bagger, Heritage Classic, Softail Cruiser, Fatbob Cruiser, Road Glide Touring Bagger, Nightster Sport, Nightster Special Sport, Pan America, Sportster S Performance Cruiser, X440",
+  "Major_Customers": "Indian Army",
+  "Top_Vendors": "Rockman Industries Ltd., Marelli Europe S.p.A",
+  "Wage_Status": "Compliant",
+  "Workforce_Turnover": "12.86 %",
+  "Health_Status": "Compliant",
+  "Strike_Risk": "N/A",
+  "Strategic_Action": "Enhance transparency in wage disclosures and ensure equal pay for equal work."
+}

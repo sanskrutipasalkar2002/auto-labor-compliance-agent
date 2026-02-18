@@ -1,0 +1,23 @@
+# --- Core Application Logic ---
+pydantic>=2.0.0          # Strict Data Contracts (Input/Output Schemas)
+python-dotenv>=1.0.0     # Managing Secrets (.env)
+
+# --- Ingestion & Parsing (The "Hunter" & "Table Surgeon") ---
+llama-parse>=0.4.0       # The "Table Surgeon" for PDFs
+llama-index-core>=0.10.0 # Required core for LlamaParse
+openpyxl>=3.1.2          # For parsing Excel financial sheets
+pandas>=2.0.0            # Data manipulation for tables
+
+# --- Reasoning & Orchestration (The "Agent") ---
+langchain>=0.1.0         # Framework for the Agent
+langchain-openai>=0.0.5  # Connector for GPT-4 (Reasoning)
+langgraph>=0.0.10        # State Machine for the "Audit Loop"
+chromadb>=0.4.0          # Vector DB (for RAG / Retrieval)
+
+# --- Utilities ---
+tiktoken>=0.5.0          # Token counting (Cost Governance)
+colorama>=0.4.6          # Pretty printing for logs
+
+# --- Testing & Quality Assurance ---
+pytest>=7.0.0            # Unit Testing framework
+pytest-asyncio>=0.23.0   # Async testing support

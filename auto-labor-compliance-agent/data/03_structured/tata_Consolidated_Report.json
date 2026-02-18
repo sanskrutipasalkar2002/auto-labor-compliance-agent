@@ -1,0 +1,194 @@
+{
+  "company_name": "Tata Motors Ltd",
+  "report_period": "FY 2024-25",
+  "overall_risk_score": "Medium",
+  "executive_summary": {
+    "overview": "Tata Motors demonstrates a commitment to employee well-being and safety, with comprehensive health and safety measures and a grievance redressal mechanism. However, there are areas for improvement, particularly in ensuring equal pay and addressing potential risks in the supply chain.",
+    "key_finding": "While Tata Motors has robust systems for employee well-being and safety, there's a notable gender pay gap and a need for enhanced due diligence in the supply chain to ensure human rights are respected."
+  },
+  "labor_code_analysis": {
+    "wages": {
+      "minimum_wage_status": {
+        "status": "Compliant",
+        "evidence_snippet": "All TML entities fully comply with the applicable environmental laws, regulations, and guidelines set forth by regulatory authorities.",
+        "metric_value": null,
+        "source_ref": "[Source: BRSR / Sustainability Report (Tata_Motors_Ltd_BRSR_Report.pdf), Page 101]"
+      },
+      "equal_pay_status": {
+        "status": "Risk Identified",
+        "evidence_snippet": "Median remuneration / salary / wages of respective category (in lacs INR) Male: 17.07, Female: 12.48",
+        "metric_value": null,
+        "source_ref": "[Source: BRSR / Sustainability Report (Tata_Motors_Ltd_BRSR_Report.pdf), Page 89]"
+      },
+      "profit_sharing_status": {
+        "status": "Not Disclosed",
+        "evidence_snippet": "No evidence of profit sharing found in the provided documents.",
+        "metric_value": null,
+        "source_ref": "N/A"
+      }
+    },
+    "osh": {
+      "safety_systems_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Safety is a core value at Tata Motors, driven by a zero-harm culture through an ISO 45001:2018-aligned OHSMS and Board-level oversight by the SHS Committee.",
+        "metric_value": "ISO 45001:2018",
+        "source_ref": "[Source: BRSR / Sustainability Report (Tata_Motors_Ltd_BRSR_Report.pdf), Page 81]"
+      },
+      "accident_records_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours worked) Employees 0.12**",
+        "metric_value": "0.12",
+        "source_ref": "[Source: BRSR / Sustainability Report (Tata_Motors_Ltd_BRSR_Report.pdf), Page 83]"
+      },
+      "audit_scores_status": {
+        "status": "Compliant",
+        "evidence_snippet": "All Tata Motors sites underwent BIS 14489:1998 audits during the fiscal year 2024-25, demonstrating our commitment to upholding high standards of health, safety, and well-being across our organization.",
+        "metric_value": "BIS 14489:1998",
+        "source_ref": "[Source: BRSR / Sustainability Report (Tata_Motors_Ltd_BRSR_Report.pdf), Page 85]"
+      }
+    },
+    "ir": {
+      "unionization_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Total Permanent Workers 12203 No. of employees/ workers in respective category, who are part of association(s) or Union 12,122 % (B / A) 99",
+        "metric_value": "99",
+        "source_ref": "[Source: BRSR / Sustainability Report (Tata_Motors_Ltd_BRSR_Report.pdf), Page 79]"
+      },
+      "collective_bargaining_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Tata Motors has a three-stage dedicated grievance redressal forum operating at various levels.",
+        "metric_value": null,
+        "source_ref": "[Source: BRSR / Sustainability Report (Tata_Motors_Ltd_BRSR_Report.pdf), Page 78]"
+      },
+      "disputes_strikes_status": {
+        "status": "Compliant",
+        "evidence_snippet": "The Company has a well-defined process to address concerns through the Ethics Committee, which oversees due investigations.",
+        "metric_value": null,
+        "source_ref": "[Source: BRSR / Sustainability Report (Tata_Motors_Ltd_BRSR_Report.pdf), Page 78]"
+      }
+    },
+    "social_security": {
+      "leave_policy_status": {
+        "status": "Compliant",
+        "evidence_snippet": "The Company has a well-defined process to address concerns through the Ethics Committee, which oversees due investigations.",
+        "metric_value": null,
+        "source_ref": "[Source: BRSR / Sustainability Report (Tata_Motors_Ltd_BRSR_Report.pdf), Page 78]"
+      },
+      "retirement_benefits_status": {
+        "status": "Compliant",
+        "evidence_snippet": "PF, Gratuity, Employee State Insurance (ESI)* 100",
+        "metric_value": "100",
+        "source_ref": "[Source: BRSR / Sustainability Report (Tata_Motors_Ltd_BRSR_Report.pdf), Page 77]"
+      },
+      "healthcare_welfare_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Tata Motors is committed to a safe, healthy, and sustainable workplace through a robust safety management system, risk mitigation strategies, and continuous improvement.",
+        "metric_value": null,
+        "source_ref": "[Source: BRSR / Sustainability Report (Tata_Motors_Ltd_BRSR_Report.pdf), Page 82]"
+      }
+    }
+  },
+  "supply_chain_compliance": {
+    "due_diligence": {
+      "status": "Compliant",
+      "evidence_snippet": "As part of this initiative, we have developed a comprehensive framework that includes a Supplier Code of Conduct, an Environmental Procurement Policy, and Sustainability Guidelines for Suppliers.",
+      "metric_value": null,
+      "source_ref": "[Source: BRSR / Sustainability Report (Tata_Motors_Ltd_BRSR_Report.pdf), Page 69]"
+    },
+    "forced_labor_policies": {
+      "status": "Compliant",
+      "evidence_snippet": "We uphold the dignity and rights of all our employees by strictly prohibiting any form of forced or involuntary labor.",
+      "metric_value": null,
+      "source_ref": "[Source: BRSR / Sustainability Report (Tata_Motors_Ltd_BRSR_Report.pdf), Page 86]"
+    },
+    "conflict_minerals": {
+      "status": "Not Disclosed",
+      "evidence_snippet": "No evidence of conflict minerals policy found in the provided documents.",
+      "metric_value": null,
+      "source_ref": "N/A"
+    },
+    "principal_employer_liability": "The document does not provide a clear analysis of liability risks regarding contract labor. Further investigation is needed to determine the extent of principal employer liability."
+  },
+  "business_impact": {
+    "operational_efficiency": "Tata Motors' commitment to safety and well-being contributes to operational efficiency by reducing workplace incidents and promoting a healthy workforce.",
+    "financial_performance": "The cost of compliance with labor regulations is balanced by the potential for increased productivity and reduced legal liabilities.",
+    "brand_reputation": "Strong ESG practices enhance Tata Motors' brand reputation, attracting socially conscious customers and investors.",
+    "innovation_rnd": "Investment in employee training and development fosters innovation and enables the company to produce state-of-the-art products."
+  },
+  "strategic_plan": {
+    "recommendations": [
+      "Conduct a comprehensive equal pay audit to identify and address gender pay gaps.",
+      "Enhance due diligence processes in the supply chain to ensure human rights are respected and forced labor is prevented.",
+      "Implement a robust system for tracking and reporting all types of workplace incidents, including near misses, to proactively address safety concerns.",
+      "Increase transparency by disclosing more detailed information on labor practices and supply chain compliance in public reports."
+    ]
+  },
+  "workforce_profile": [
+    {
+      "category": "Permanent Employees",
+      "total_count": "12,591",
+      "male_count": "11,411",
+      "female_count": "1,180",
+      "turnover_rate": "7.6"
+    },
+    {
+      "category": "Other than Permanent employees",
+      "total_count": "365",
+      "male_count": "265",
+      "female_count": "100",
+      "turnover_rate": "N/A"
+    },
+    {
+      "category": "Permanent Workers",
+      "total_count": "15,585",
+      "male_count": "15,244",
+      "female_count": "341",
+      "turnover_rate": "0.9"
+    },
+    {
+      "category": "Other than Permanent Workers",
+      "total_count": "29,901",
+      "male_count": "25,036",
+      "female_count": "4,865",
+      "turnover_rate": "N/A"
+    }
+  ],
+  "supply_chain_profile": [
+    {
+      "vendor_name": "Various Suppliers",
+      "relationship": "Supply Chain Partners",
+      "compliance_status": "Requires Improvement",
+      "key_metrics": "68% of APV have either ISO 45001 or ISO 14001 Certification."
+    }
+  ],
+  "api_financials": {
+    "revenue": "₹458,138.00 Cr (API)",
+    "ebitda": "₹65,355.00 Cr (API)",
+    "net_income": "₹22,340.00 Cr (API)",
+    "employee_cost": "N/A (API)"
+  },
+  "labour_code_impact": {
+    "provision_amount": "482 Crores",
+    "impact_description": "The incremental impact consisting of gratuity of '{482 crores and long-term compensated absences of \"92 crores primarily arises due to change in wage definition.",
+    "fiscal_period": "December 31, 2025"
+  },
+  "business_intel": null,
+  "vendors": [
+    "TVS",
+    "Hinduja Tech",
+    "Switch Mobility"
+  ],
+  "Company": "Tata Motors Ltd",
+  "Period": "FY 2024-25",
+  "Risk Score": "Medium",
+  "Labour_Provision": "482 Crores",
+  "Labour_Provision_Desc": "The incremental impact consisting of gratuity of '{482 crores and long-term compensated absences of \"92 crores primarily arises due to change in wage definition.",
+  "Top_Products": "N/A",
+  "Major_Customers": "N/A",
+  "Top_Vendors": "TVS, Hinduja Tech, Switch Mobility",
+  "Wage_Status": "Compliant",
+  "Workforce_Turnover": "7.6",
+  "Health_Status": "Compliant",
+  "Strike_Risk": "Compliant",
+  "Strategic_Action": "Conduct a comprehensive equal pay audit to identify and address gender pay gaps."
+}

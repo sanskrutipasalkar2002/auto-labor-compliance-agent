@@ -1,0 +1,225 @@
+{
+  "company_name": "TVS Motor Company",
+  "report_period": "FY 2024-25",
+  "overall_risk_score": "Medium",
+  "executive_summary": {
+    "overview": "TVS Motor Company demonstrates a commitment to responsible business conduct through various policies and initiatives. However, there are areas where improvements are needed, particularly in addressing potential risks in the supply chain and ensuring comprehensive training on human rights.",
+    "key_finding": "While TVS Motor Company has established various policies and procedures to promote responsible business conduct, there is a need for more comprehensive implementation and monitoring of these policies throughout the supply chain, particularly regarding human rights and environmental impacts."
+  },
+  "labor_code_analysis": {
+    "wages": {
+      "minimum_wage_status": {
+        "status": "Compliant",
+        "evidence_snippet": "All employees and workers are paid more than the minimum wage.",
+        "metric_value": null,
+        "source_ref": "[Source: TVS_Motor_Company_BRSR_Report.pdf, SECTION C: PRINCIPLE 5]"
+      },
+      "equal_pay_status": {
+        "status": "Risk Identified",
+        "evidence_snippet": "Median remuneration/ salary/ wages of respective category\nBoard of Directors (BoD) Male 7 INR 41,89,589 Female 1 -\nKey Managerial Personnel Male 2 - Female - -\nEmployees other than BoD and KMP Male 3649 INR 16,00,000 Female 559 INR 13,00,000\nWorkers Male 1850 INR 8,00,000 Female 1 INR 7,00,000",
+        "metric_value": null,
+        "source_ref": "[Source: TVS_Motor_Company_BRSR_Report.pdf, SECTION C: PRINCIPLE 5]"
+      },
+      "profit_sharing_status": {
+        "status": "Not Disclosed",
+        "evidence_snippet": "No mention of profit sharing.",
+        "metric_value": null,
+        "source_ref": "[Source: TVS_Motor_Company_BRSR_Report.pdf, Entire Document]"
+      }
+    },
+    "osh": {
+      "safety_systems_status": {
+        "status": "Compliant",
+        "evidence_snippet": "TVS Motor Company (TVS Motor) has implemented a comprehensive Occupational Health and Safety Management System (OHSMS) across all its manufacturing plants, operations and across its value chain.",
+        "metric_value": null,
+        "source_ref": "[Source: TVS_Motor_Company_Annual_Report_Vendors.pdf, pg 191]"
+      },
+      "accident_records_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Lost Time Injury Frequency Rate (LTIFR)\nEmployees 0\nWorkers 0.39",
+        "metric_value": "0",
+        "source_ref": "[Source: TVS_Motor_Company_Annual_Report_Vendors.pdf, pg 192]"
+      },
+      "audit_scores_status": {
+        "status": "Positive",
+        "evidence_snippet": "MSI score was 81%.",
+        "metric_value": "81",
+        "source_ref": "[Source: TVS_Motor_Company_Annual_Report_Vendors.pdf, pg 192]"
+      }
+    },
+    "ir": {
+      "unionization_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Total Permanent Workers 1851 100.00",
+        "metric_value": "100.00",
+        "source_ref": "[Source: TVS_Motor_Company_BRSR_Report.pdf, SECTION C: PRINCIPLE 3]"
+      },
+      "collective_bargaining_status": {
+        "status": "Compliant",
+        "evidence_snippet": "consultative collective bargaining process",
+        "metric_value": null,
+        "source_ref": "[Source: TVS_Motor_Company_Annual_Report_Vendors.pdf, pg 187]"
+      },
+      "disputes_strikes_status": {
+        "status": "Compliant",
+        "evidence_snippet": "No major disputes or strikes reported.",
+        "metric_value": null,
+        "source_ref": "[Source: TVS_Motor_Company_BRSR_Report.pdf, Entire Document]"
+      }
+    },
+    "social_security": {
+      "leave_policy_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Details of measures for the well-being of employees:\n% of employees covered by Health insurance 100%\n% of employees covered by Accident insurance 100%\n% of employees covered by Maternity Benefits 14.44%\n% of employees covered by Paternity Benefits 85.56%\n% of employees covered by Day Care facilities 100%",
+        "metric_value": "100%",
+        "source_ref": "[Source: TVS_Motor_Company_Annual_Report_Vendors.pdf, pg 189]"
+      },
+      "retirement_benefits_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Details of retirement benefits, for Current FY and Previous Financial Year\nBenefits No. of employees covered as a % of total employees No. of workers covered as a % of total workers Deducted and deposited with the authority (Y/N/N.A.)\nPF 100% 100% Yes\nGratuity 100% 100% Yes\nEmployees State Insurance Benefits (ESI) 100% 100% Yes",
+        "metric_value": "100%",
+        "source_ref": "[Source: TVS_Motor_Company_Annual_Report_Vendors.pdf, pg 190]"
+      },
+      "healthcare_welfare_status": {
+        "status": "Compliant",
+        "evidence_snippet": "TVS Motor Company's Occupational Health Centre (OHC) operates 24/7, ensuring accessibility for all employees, including contract workers. The OHC provides medical care and treatment for both work-related and non-work-related injuries and illnesses, promoting overall employee well-being.",
+        "metric_value": null,
+        "source_ref": "[Source: TVS_Motor_Company_Annual_Report_Vendors.pdf, pg 191]"
+      }
+    }
+  },
+  "supply_chain_compliance": {
+    "due_diligence": {
+      "status": "Compliant",
+      "evidence_snippet": "TVS Motor Company Limited (TVSM), a leading provider of mobility solutions, recognizes the pivotal role its supply chain partners play in achieving its vision—enhancing quality of life through safe, sustainable, and responsible mobility.",
+      "metric_value": null,
+      "source_ref": "[Source: TVS_Motor_Company_Annual_Report_Vendors.pdf, pg 179]"
+    },
+    "forced_labor_policies": {
+      "status": "Compliant",
+      "evidence_snippet": "Suppliers and partners must follow the Supplier Sustainability Code of Conduct, which aligns with international human rights principles, including ILO standards and UN Guiding Principles on Business and Human Rights.",
+      "metric_value": null,
+      "source_ref": "[Source: TVS_Motor_Company_Annual_Report_Vendors.pdf, pg 194]"
+    },
+    "conflict_minerals": {
+      "status": "Not Disclosed",
+      "evidence_snippet": "No mention of conflict minerals.",
+      "metric_value": null,
+      "source_ref": "[Source: TVS_Motor_Company_BRSR_Report.pdf, Entire Document]"
+    },
+    "principal_employer_liability": "TVS Motor Company could face potential liabilities as a principal employer if its contractors fail to comply with labor laws, ensure workplace safety, or provide adequate social security benefits to their employees. This could result in legal and financial repercussions for the company."
+  },
+  "business_impact": {
+    "operational_efficiency": "Labor relations and employee well-being directly impact operational efficiency. Positive labor relations and a healthy, motivated workforce can lead to increased productivity and reduced disruptions.",
+    "financial_performance": "Compliance with labor laws and responsible labor practices can lead to cost savings through reduced fines, penalties, and legal fees. Additionally, a positive work environment can improve employee retention and reduce recruitment costs.",
+    "brand_reputation": "A strong commitment to ethical labor practices and human rights can enhance TVS Motor Company's brand reputation, attracting socially conscious consumers and investors.",
+    "innovation_rnd": "A diverse and inclusive workforce can foster creativity and innovation, leading to improved product development and a competitive edge in the market."
+  },
+  "strategic_plan": {
+    "recommendations": [
+      "Conduct regular and thorough audits of suppliers to ensure compliance with labor laws and human rights standards.",
+      "Implement comprehensive training programs for employees and workers on human rights, workplace safety, and ethical conduct.",
+      "Establish clear and accessible grievance mechanisms for employees and workers to report concerns without fear of retaliation.",
+      "Promote diversity and inclusion throughout the organization, creating a workplace where everyone feels valued and respected."
+    ]
+  },
+  "workforce_profile": [
+    {
+      "category": "Permanent Employees",
+      "total_count": "4129",
+      "male_count": "3579",
+      "female_count": "550",
+      "turnover_rate": "8.26"
+    },
+    {
+      "category": "Other than Permanent Employees",
+      "total_count": "256",
+      "male_count": "221",
+      "female_count": "35",
+      "turnover_rate": "N/A"
+    },
+    {
+      "category": "Permanent Workers",
+      "total_count": "1851",
+      "male_count": "1850",
+      "female_count": "1",
+      "turnover_rate": "2.58"
+    },
+    {
+      "category": "Other than Permanent Workers",
+      "total_count": "N/A",
+      "male_count": "N/A",
+      "female_count": "N/A",
+      "turnover_rate": "N/A"
+    }
+  ],
+  "supply_chain_profile": [
+    {
+      "vendor_name": "Various Suppliers",
+      "relationship": "Supplier",
+      "compliance_status": "Varies",
+      "key_metrics": "Adherence to Supplier Sustainability Code of Conduct"
+    },
+    {
+      "vendor_name": "Various Dealers",
+      "relationship": "Dealer",
+      "compliance_status": "Varies",
+      "key_metrics": "Implementation of fire safety measures and water conservation practices"
+    }
+  ],
+  "api_financials": {
+    "revenue": "3,62,513",
+    "ebitda": "44,540",
+    "net_income": "27,105",
+    "employee_cost": "19,703"
+  },
+  "labour_code_impact": {
+    "provision_amount": "Rs0.4bn",
+    "impact_description": "Exceptional expenses due to the new labor codes",
+    "fiscal_period": "Q3FY26"
+  },
+  "business_intel": null,
+  "vendors": [
+    "TVS Holdings Limited",
+    "Sundaram Auto Components Limited",
+    "TVS Credit Services Limited",
+    "TVS Motor Services Limited",
+    "TVS Electric Mobility Limited",
+    "DriveX Mobility Private Limited",
+    "Harita ARC Private Limited",
+    "TVS Housing Finance Private Limited",
+    "Harita Two-wheeler Mall Private Limited",
+    "TVS Motor Company (Europe) B.V.",
+    "TVS Motor (Singapore) Pte Limited",
+    "PT TVS Motor Company",
+    "TVS Motor Company DMCC",
+    "The Norton Motorcycle Co Limited",
+    "The GO Corporation",
+    "Swiss E-mobility Group (Holding) AG",
+    "Swiss E-mobility Group (Schweiz), AG",
+    "Colag E-mobility GmbH",
+    "Alexand'Ro Edouard'O Passion VeloSarl",
+    "Swiss E-Mobility Group (Österreich) GmbH",
+    "EGO Movement, Stuttgart GmbH",
+    "EBCO Limited",
+    "Celerity Motor GmbH",
+    "TVS Digital Pte Limited",
+    "Ultraviolette Automotive Private Limited",
+    "Killwatt GmbH",
+    "Predictronics Corp",
+    "Altizon Inc"
+  ],
+  "Company": "TVS Motor Company",
+  "Period": "FY 2024-25",
+  "Risk Score": "Medium",
+  "Labour_Provision": "Rs0.4bn",
+  "Labour_Provision_Desc": "Exceptional expenses due to the new labor codes",
+  "Top_Products": "N/A",
+  "Major_Customers": "N/A",
+  "Top_Vendors": "TVS Holdings Limited, Sundaram Auto Components Limited, TVS Credit Services Limited, TVS Motor Services Limited, TVS Electric Mobility Limited",
+  "Wage_Status": "Compliant",
+  "Workforce_Turnover": "8.26",
+  "Health_Status": "Compliant",
+  "Strike_Risk": "Compliant",
+  "Strategic_Action": "Conduct regular and thorough audits of suppliers to ensure compliance with labor laws and human rights standards."
+}

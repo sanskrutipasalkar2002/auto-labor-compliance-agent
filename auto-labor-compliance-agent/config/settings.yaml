@@ -1,0 +1,4 @@
+system:
+  hallucination_tolerance: "zero"
+  max_retries: 3
+  timeout_seconds: 60

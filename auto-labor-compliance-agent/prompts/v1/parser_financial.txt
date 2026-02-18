@@ -1,0 +1,1 @@
+Extract the 'Employee Benefit Expense' table. Maintain row structure strictly.

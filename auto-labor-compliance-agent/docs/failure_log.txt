@@ -1,0 +1,27 @@
+2026-02-05 17:38:49.686077 - Mahindra_&_Mahindra_Ltd_Annual_Report_1770293225.pdf - Failed to parse AuditReport from completion {"company_name": "Kotak Mahindra Capital Company Limited", "report_period": "FY 2024-25", "financial_impact": {"statutory_wage_base": {"status": "Not Disclosed", "evidence_snippet": "NO_EVIDENCE_FOUND", "source_ref": "NO_REFERENCE_FOUND", "metric_value": null}, "gratuity_liability": {"status": "Compliant", "evidence_snippet": "The Company accounts for the liability for future gratuity benefits based on an actuarial valuation.", "source_ref": "[Source: Annual Report 2024-25, Page 36]", "metric_value": null}, "employee_benefit_expense": {"status": "Compliant", "evidence_snippet": "Employee benefits expenses : 17,049.19", "source_ref": "[Source: Annual Report 2024-25, Page 52]", "metric_value": "17,049.19"}}, "workforce_welfare": {"fte_gratuity": {"status": "Not Disclosed", "evidence_snippet": "NO_EVIDENCE_FOUND", "source_ref": "NO_REFERENCE_FOUND", "metric_value": null}, "reskilling_fund": {"status": "Not Disclosed", "evidence_snippet": "NO_EVIDENCE_FOUND", "source_ref": "NO_REFERENCE_FOUND", "metric_value": null}}, "operational_safety": {"health_checkups": {"status": "Not Disclosed", "evidence_snippet": "NO_EVIDENCE_FOUND", "source_ref": "NO_REFERENCE_FOUND", "metric_value": null}, "safety_committees": {"status": "Not Disclosed", "evidence_snippet": "NO_EVIDENCE_FOUND", "source_ref": "NO_REFERENCE_FOUND", "metric_value": null}, "women_night_shifts": {"status": "Not Disclosed", "evidence_snippet": "NO_EVIDENCE_FOUND", "source_ref": "NO_REFERENCE_FOUND", "metric_value": null}}, "risk_compliance": {"full_final_settlement": {"status": "Not Disclosed", "evidence_snippet": "NO_EVIDENCE_FOUND", "source_ref": "NO_REFERENCE_FOUND", "metric_value": null}, "contractor_licensing": {"status": "Not Disclosed", "evidence_snippet": "NO_EVIDENCE_FOUND", "source_ref": "NO_REFERENCE_FOUND", "metric_value": null}}, "overall_risk_score": "High", "missing_data_warning": true}. Got: 8 validation errors for AuditReport
+financial_impact.statutory_wage_base.source_ref
+  Value error, Citation must follow format '[Source: DocName, Page X]' [type=value_error, input_value='NO_REFERENCE_FOUND', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/value_error
+workforce_welfare.fte_gratuity.source_ref
+  Value error, Citation must follow format '[Source: DocName, Page X]' [type=value_error, input_value='NO_REFERENCE_FOUND', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/value_error
+workforce_welfare.reskilling_fund.source_ref
+  Value error, Citation must follow format '[Source: DocName, Page X]' [type=value_error, input_value='NO_REFERENCE_FOUND', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/value_error
+operational_safety.health_checkups.source_ref
+  Value error, Citation must follow format '[Source: DocName, Page X]' [type=value_error, input_value='NO_REFERENCE_FOUND', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/value_error
+operational_safety.safety_committees.source_ref
+  Value error, Citation must follow format '[Source: DocName, Page X]' [type=value_error, input_value='NO_REFERENCE_FOUND', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/value_error
+operational_safety.women_night_shifts.source_ref
+  Value error, Citation must follow format '[Source: DocName, Page X]' [type=value_error, input_value='NO_REFERENCE_FOUND', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/value_error
+risk_compliance.full_final_settlement.source_ref
+  Value error, Citation must follow format '[Source: DocName, Page X]' [type=value_error, input_value='NO_REFERENCE_FOUND', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/value_error
+risk_compliance.contractor_licensing.source_ref
+  Value error, Citation must follow format '[Source: DocName, Page X]' [type=value_error, input_value='NO_REFERENCE_FOUND', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/value_error
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/OUTPUT_PARSING_FAILURE 
+2026-02-05 17:38:49.723080 - Mahindra_&_Mahindra_Ltd_Annual_Report_1770293227.pdf - Markdown content is empty or too short. Check the Parser step.

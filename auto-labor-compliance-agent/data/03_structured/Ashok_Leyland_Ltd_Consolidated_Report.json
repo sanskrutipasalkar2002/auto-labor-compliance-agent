@@ -1,0 +1,238 @@
+{
+  "company_name": "Ashok Leyland Ltd",
+  "report_period": "FY 2024-25",
+  "overall_risk_score": "Medium",
+  "executive_summary": {
+    "overview": "Ashok Leyland demonstrates a commitment to ethical business practices and sustainability, with a strong focus on employee well-being and community engagement. The company has robust policies and governance structures in place, but there are areas for improvement in supply chain due diligence and ensuring equitable pay across all levels.",
+    "key_finding": "While Ashok Leyland has a strong commitment to ethical business practices and employee well-being, there is a need to improve the ratio of basic salary and remuneration of women to men in senior, middle and junior management."
+  },
+  "labor_code_analysis": {
+    "wages": {
+      "minimum_wage_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Establishing appropriate wages is crucial for providing both women and men  employees and their families with a decent standard of living and income.",
+        "metric_value": null,
+        "source_ref": "[Source: Ashok_Leyland_Ltd_BRSR_Report.pdf, Page 97]"
+      },
+      "equal_pay_status": {
+        "status": "Risk Identified",
+        "evidence_snippet": "Ratio of basic salary and remuneration of women to men for FY 2024-25",
+        "metric_value": "0.75",
+        "source_ref": "[Source: Ashok_Leyland_Ltd_BRSR_Report.pdf, Page 94]"
+      },
+      "profit_sharing_status": {
+        "status": "N/A",
+        "evidence_snippet": "No mention of profit sharing",
+        "metric_value": null,
+        "source_ref": "N/A"
+      }
+    },
+    "osh": {
+      "safety_systems_status": {
+        "status": "Compliant",
+        "evidence_snippet": "We are certified under ISO 45001:2018, ensuring our Health and Safety management system aligns with global best practices.",
+        "metric_value": "ISO 45001:2018",
+        "source_ref": "[Source: Ashok_Leyland_Ltd_BRSR_Report.pdf, Page 100]"
+      },
+      "accident_records_status": {
+        "status": "Positive",
+        "evidence_snippet": "We are pleased to report significant progress, with a 46 percent reduction in occupational injuries in FY 2024-25 compared to FY 2023-24.",
+        "metric_value": "46%",
+        "source_ref": "[Source: Ashok_Leyland_Ltd_BRSR_Report.pdf, Page 101]"
+      },
+      "audit_scores_status": {
+        "status": "Positive",
+        "evidence_snippet": "Additionally, all manufacturing plants underwent assessments by the Confederation of Indian Industry (CII) regarding EHS process maturity, resulting in the achievement of 9 CII EHS awards (Gold - 5, Silver - 1 and Special Category - 3).",
+        "metric_value": "9",
+        "source_ref": "[Source: Ashok_Leyland_Ltd_BRSR_Report.pdf, Page 101]"
+      }
+    },
+    "ir": {
+      "unionization_status": {
+        "status": "Compliant",
+        "evidence_snippet": "We uphold the right to freedom of association and collective bargaining with the utmost respect, ensuring that 100 percent of our workforce is represented under collective bargaining agreements.",
+        "metric_value": "100%",
+        "source_ref": "[Source: Ashok_Leyland_Ltd_BRSR_Report.pdf, Page 90]"
+      },
+      "collective_bargaining_status": {
+        "status": "Compliant",
+        "evidence_snippet": "We uphold the right to freedom of association and collective bargaining with the utmost respect, ensuring that 100 percent of our workforce is represented under collective bargaining agreements.",
+        "metric_value": "100%",
+        "source_ref": "[Source: Ashok_Leyland_Ltd_BRSR_Report.pdf, Page 90]"
+      },
+      "disputes_strikes_status": {
+        "status": "Compliant",
+        "evidence_snippet": "We focus on maintaining a fair workplace, successfully resolving all 45 working condition complaints and 28 health and safety complaints in FY 2024-25.",
+        "metric_value": "45",
+        "source_ref": "[Source: Ashok_Leyland_Ltd_BRSR_Report.pdf, Page 100]"
+      }
+    },
+    "social_security": {
+      "leave_policy_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Our parental leave policy provides 24 weeks of maternity leave for mothers and up to two weeks of paternity leave for fathers. Additionally, adoption leave is provided to women employees for a period of 12 weeks.",
+        "metric_value": "24 weeks",
+        "source_ref": "[Source: Ashok_Leyland_Ltd_BRSR_Report.pdf, Page 91]"
+      },
+      "retirement_benefits_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Every employee is supported with essential retirement plans, including a provident fund, gratuity, and the Employees' State Insurance Scheme of India.",
+        "metric_value": null,
+        "source_ref": "[Source: Ashok_Leyland_Ltd_BRSR_Report.pdf, Page 91]"
+      },
+      "healthcare_welfare_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Our permanent staff enjoy extensive insurance coverage—covering health, life, and disability—as well as parental leave provisions",
+        "metric_value": null,
+        "source_ref": "[Source: Ashok_Leyland_Ltd_BRSR_Report.pdf, Page 91]"
+      }
+    }
+  },
+  "supply_chain_compliance": {
+    "due_diligence": {
+      "status": "Compliant",
+      "evidence_snippet": "All new suppliers are systematically assessed through a structured evaluation aligned with the Plan-Do-Check-Act (PDCA) methodology to ensure compliance with our standards.",
+      "metric_value": null,
+      "source_ref": "[Source: Ashok_Leyland_Ltd_BRSR_Report.pdf, Page 114]"
+    },
+    "forced_labor_policies": {
+      "status": "Compliant",
+      "evidence_snippet": "We aim to ensure that all our offices and plants are free from child labour, forced labour, and discrimination, thereby upholding the dignity and rights of our workforce.",
+      "metric_value": null,
+      "source_ref": "[Source: Ashok_Leyland_Ltd_BRSR_Report.pdf, Page 100]"
+    },
+    "conflict_minerals": {
+      "status": "Compliant",
+      "evidence_snippet": "We also took conflict mineral policy one of the key criteria during supplier assessment and restricting our supplier partners to avoid buy RM from conflict zones such RAMSAR sites in India and Congo regions internationally.",
+      "metric_value": null,
+      "source_ref": "[Source: Ashok_Leyland_Ltd_BRSR_Report.pdf, Page 117]"
+    },
+    "principal_employer_liability": "The document does not explicitly discuss the liability risks associated with contract labor. Further investigation is needed to determine the extent of Ashok Leyland's responsibility as a principal employer."
+  },
+  "business_impact": {
+    "operational_efficiency": "The company is focused on improving operational efficiency through various initiatives, including energy management, waste reduction, and digital transformation.",
+    "financial_performance": "The company achieved record sales revenue and EBITDA, demonstrating strong financial performance. However, there are costs associated with compliance and sustainability initiatives.",
+    "brand_reputation": "The company's commitment to sustainability and social responsibility has enhanced its brand reputation and attracted investment.",
+    "innovation_rnd": "The company is investing in R&D to develop alternative fuel vehicles and improve product safety, which is expected to drive innovation and enhance its competitive advantage."
+  },
+  "strategic_plan": {
+    "recommendations": [
+      "Develop and implement a plan to address the pay gap between men and women, ensuring equitable compensation across all levels.",
+      "Enhance due diligence processes for supply chain partners to ensure compliance with human rights and labor standards.",
+      "Continue to invest in renewable energy and energy efficiency measures to reduce greenhouse gas emissions and achieve carbon neutrality goals.",
+      "Strengthen community engagement programs to address local needs and improve the company's social impact."
+    ]
+  },
+  "workforce_profile": [
+    {
+      "category": "Total Workers (Permanent, Non-Permanent)",
+      "total_count": "29,588",
+      "male_count": "N/A",
+      "female_count": "N/A",
+      "turnover_rate": "N/A"
+    },
+    {
+      "category": "Total Executives",
+      "total_count": "1,802",
+      "male_count": "N/A",
+      "female_count": "N/A",
+      "turnover_rate": "N/A"
+    },
+    {
+      "category": "New Joiners (Employees)",
+      "total_count": "393",
+      "male_count": "N/A",
+      "female_count": "N/A",
+      "turnover_rate": "N/A"
+    },
+    {
+      "category": "Permanent Workers",
+      "total_count": "N/A",
+      "male_count": "N/A",
+      "female_count": "N/A",
+      "turnover_rate": "5.52%"
+    },
+    {
+      "category": "Permanent Employees",
+      "total_count": "N/A",
+      "male_count": "N/A",
+      "female_count": "N/A",
+      "turnover_rate": "7.86%"
+    },
+    {
+      "category": "Trainees",
+      "total_count": "536",
+      "male_count": "374",
+      "female_count": "N/A",
+      "turnover_rate": "162"
+    },
+    {
+      "category": "Revenue Generating Positions",
+      "total_count": "5,278",
+      "male_count": "4,886",
+      "female_count": "N/A",
+      "turnover_rate": "392"
+    }
+  ],
+  "supply_chain_profile": [
+    {
+      "vendor_name": "Various",
+      "relationship": "Suppliers",
+      "compliance_status": "See report",
+      "key_metrics": "See report"
+    }
+  ],
+  "api_financials": {
+    "revenue": "INR 38,753 Crore",
+    "ebitda": "INR 4,931 Crore",
+    "net_income": "INR 3,303 Crore",
+    "employee_cost": "INR 2,406 Crore"
+  },
+  "labour_code_impact": {
+    "provision_amount": "308.48 Crores",
+    "impact_description": "the Incremental effect comprising gratuity and compensated absences aggregating",
+    "fiscal_period": "quarter and nine months ended December 31,2025"
+  },
+  "business_intel": {
+    "key_products": [
+      "BOSS Electric",
+      "AVTR 55T Electric",
+      "Hydrogen ICE",
+      "Fuel Cell buses and trucks",
+      "LNG",
+      "CNG"
+    ],
+    "major_customers": [
+      "Indian Army",
+      "Amazon",
+      "Biocon",
+      "DB Schenker",
+      "Reliance",
+      "NTPC",
+      "Adani",
+      "Mahanagar Gas Limited"
+    ],
+    "market_position": "second-largest commercial vehicle manufacturer in India"
+  },
+  "vendors": [
+    "TVS Vehicle Mobility Solution Private Limited",
+    "TVS Trucks and Buses Private Limited",
+    "Hinduja Renewables",
+    "Nidec",
+    "CALB",
+    "Hindalco"
+  ],
+  "Company": "Ashok Leyland Ltd",
+  "Period": "FY 2024-25",
+  "Risk Score": "Medium",
+  "Labour_Provision": "308.48 Crores",
+  "Labour_Provision_Desc": "the Incremental effect comprising gratuity and compensated absences aggregating",
+  "Top_Products": "BOSS Electric, AVTR 55T Electric, Hydrogen ICE, Fuel Cell buses and trucks, LNG, CNG",
+  "Major_Customers": "Indian Army, Amazon, Biocon, DB Schenker, Reliance, NTPC, Adani, Mahanagar Gas Limited",
+  "Top_Vendors": "TVS Vehicle Mobility Solution Private Limited, TVS Trucks and Buses Private Limited, Hinduja Renewables, Nidec, CALB",
+  "Wage_Status": "Compliant",
+  "Workforce_Turnover": "N/A",
+  "Health_Status": "Compliant",
+  "Strike_Risk": "Compliant",
+  "Strategic_Action": "Develop and implement a plan to address the pay gap between men and women, ensuring equitable compensation across all levels."
+}

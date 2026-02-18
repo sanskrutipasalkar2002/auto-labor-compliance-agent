@@ -1,0 +1,205 @@
+{
+  "company_name": "Bajaj Auto Ltd",
+  "report_period": "FY2024-25",
+  "overall_risk_score": "N/A",
+  "executive_summary": {
+    "overview": "This is a Forensic Compliance Audit Report for Bajaj Auto Ltd.",
+    "key_finding": "The company demonstrates a strong commitment to employee well-being and safety, but there are areas for improvement in supply chain compliance and gender diversity."
+  },
+  "labor_code_analysis": {
+    "wages": {
+      "minimum_wage_status": {
+        "status": "Compliant",
+        "evidence_snippet": "All employees and workers are paid more than minimum wage.",
+        "metric_value": null,
+        "source_ref": "[Source: Bajaj_Auto_Ltd_BRSR_Report.pdf, Section C]"
+      },
+      "equal_pay_status": {
+        "status": "Risk Identified",
+        "evidence_snippet": "Gross wages paid to females as % of total wages 3.9%",
+        "metric_value": "3.9%",
+        "source_ref": "[Source: Bajaj_Auto_Ltd_BRSR_Report.pdf, Section C]"
+      },
+      "profit_sharing_status": {
+        "status": "N/A",
+        "evidence_snippet": "No evidence of profit sharing found in the provided documents.",
+        "metric_value": null,
+        "source_ref": "N/A"
+      }
+    },
+    "osh": {
+      "safety_systems_status": {
+        "status": "Compliant",
+        "evidence_snippet": "All our plants are certified with ISO 45001:2018 by M/S Bureau Veritas.",
+        "metric_value": "ISO 45001:2018",
+        "source_ref": "[Source: Bajaj_Auto_Ltd_BRSR_Report.pdf, Section C]"
+      },
+      "accident_records_status": {
+        "status": "Risk Identified",
+        "evidence_snippet": "Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours worked) Workers 0.08",
+        "metric_value": "0.08",
+        "source_ref": "[Source: Bajaj_Auto_Ltd_BRSR_Report.pdf, Section C]"
+      },
+      "audit_scores_status": {
+        "status": "Positive",
+        "evidence_snippet": "We have implemented various auditing and inspection processes to identify hazards and risks.",
+        "metric_value": null,
+        "source_ref": "[Source: Bajaj_Auto_Ltd_BRSR_Report.pdf, Section C]"
+      }
+    },
+    "ir": {
+      "unionization_status": {
+        "status": "Risk Identified",
+        "evidence_snippet": "73% of male permanent workers are part of an association or union.",
+        "metric_value": "73%",
+        "source_ref": "[Source: Bajaj_Auto_Ltd_BRSR_Report.pdf, Section C]"
+      },
+      "collective_bargaining_status": {
+        "status": "Compliant",
+        "evidence_snippet": "This is exemplified by the timely signing of the Long-Term Wage Settlement at the Waluj plant.",
+        "metric_value": null,
+        "source_ref": "[Source: Bajaj_Auto_Ltd_Annual_Report_Vendors.pdf, Page 27]"
+      },
+      "disputes_strikes_status": {
+        "status": "N/A",
+        "evidence_snippet": "No major disputes or strikes were mentioned in the provided documents.",
+        "metric_value": null,
+        "source_ref": "N/A"
+      }
+    },
+    "social_security": {
+      "leave_policy_status": {
+        "status": "Compliant",
+        "evidence_snippet": "As accumulated leave can be availed and/or encashed at any time during the tenure of employment, subject to terms and conditions of the scheme",
+        "metric_value": null,
+        "source_ref": "[Source: Bajaj_Auto_Ltd_Annual_Report_Vendors.pdf, Page 45]"
+      },
+      "retirement_benefits_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Payment for present liability of future payment of gratuity is being made to approved gratuity fund",
+        "metric_value": null,
+        "source_ref": "[Source: Bajaj_Auto_Ltd_Annual_Report_Vendors.pdf, Page 45]"
+      },
+      "healthcare_welfare_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Employees have access to state-of-the-art health and sports facilities.",
+        "metric_value": null,
+        "source_ref": "[Source: Bajaj_Auto_Ltd_Annual_Report_Vendors.pdf, Page 27]"
+      }
+    }
+  },
+  "supply_chain_compliance": {
+    "due_diligence": {
+      "status": "Compliant",
+      "evidence_snippet": "We have a well-defined methodology, practices, and Supplier Code of Conduct (SCoC) to engage with all our suppliers in an ethical, responsible, fair, transparent, legal, and sustainable way.",
+      "metric_value": null,
+      "source_ref": "[Source: Bajaj_Auto_Ltd_BRSR_Report.pdf, Section C]"
+    },
+    "forced_labor_policies": {
+      "status": "Compliant",
+      "evidence_snippet": "Human rights are an essential part of supplier code of conduct.",
+      "metric_value": null,
+      "source_ref": "[Source: Bajaj_Auto_Ltd_BRSR_Report.pdf, Section C]"
+    },
+    "conflict_minerals": {
+      "status": "N/A",
+      "evidence_snippet": "No mention of conflict minerals was found in the provided documents.",
+      "metric_value": null,
+      "source_ref": "N/A"
+    },
+    "principal_employer_liability": "The company appears to be taking measures to ensure compliance by value chain partners."
+  },
+  "business_impact": {
+    "operational_efficiency": "Continuous evolution through TPM culture for excellence involving all employees to improve processes across the company.",
+    "financial_performance": "The company has delivered record financial results.",
+    "brand_reputation": "Bajaj Auto is recognised for its strong performance and leadership.",
+    "innovation_rnd": "The company is focused on creating its own cutting-edge technology to make affordable and scalable Electronic Powertrains and its controllers, HMI solutions, connectivity solutions and value-added features for the vehicles employing these technologies."
+  },
+  "strategic_plan": {
+    "recommendations": [
+      "Improve gender diversity across all levels of the organization.",
+      "Strengthen monitoring and enforcement of labor standards within the supply chain.",
+      "Enhance transparency in reporting on environmental and social impacts.",
+      "Continue investing in employee training and development programs."
+    ]
+  },
+  "workforce_profile": [
+    {
+      "category": "Permanent Employees",
+      "total_count": "N/A",
+      "male_count": "2498",
+      "female_count": "N/A",
+      "turnover_rate": "95%"
+    },
+    {
+      "category": "Other than Permanent Employees",
+      "total_count": "N/A",
+      "male_count": "206",
+      "female_count": "N/A",
+      "turnover_rate": "73%"
+    },
+    {
+      "category": "Permanent Workers",
+      "total_count": "N/A",
+      "male_count": "2830",
+      "female_count": "N/A",
+      "turnover_rate": "96%"
+    },
+    {
+      "category": "Other than Permanent Workers",
+      "total_count": "N/A",
+      "male_count": "115",
+      "female_count": "N/A",
+      "turnover_rate": "93%"
+    }
+  ],
+  "supply_chain_profile": [
+    {
+      "vendor_name": "Various",
+      "relationship": "Suppliers and Service Providers",
+      "compliance_status": "Adhering to internal sustainability standards/codes/policies",
+      "key_metrics": "100% of input materials and services are sourced from compliant suppliers"
+    }
+  ],
+  "api_financials": {
+    "revenue": "50,010 Crore",
+    "ebitda": "10,101 Crore",
+    "net_income": "8,151 Crore",
+    "employee_cost": "1,577 Crore"
+  },
+  "labour_code_impact": {
+    "provision_amount": "INR61 crores",
+    "impact_description": "pursuant to the amendment in the definition of wages under the new labour code, we recognized INR61 crores as a onetime exceptional charge towards the past service cost arising from the changes introduced under the new labour code. This is essentially towards gratuity.",
+    "fiscal_period": "FY26"
+  },
+  "business_intel": {
+    "key_products": [
+      "Pulsar",
+      "Dominar",
+      "KTM",
+      "Husqvarna",
+      "Triumph",
+      "Freedom 125",
+      "Chetak",
+      "GoGo"
+    ],
+    "major_customers": [],
+    "market_position": "India's second-largest and the world's sixth-largest motorcycle manufacturer and the world's largest three-wheeler maker."
+  },
+  "vendors": [
+    "Refer to Annual Report Note: Related Party Disclosures"
+  ],
+  "Company": "Bajaj Auto Ltd",
+  "Period": "FY2024-25",
+  "Risk Score": "N/A",
+  "Labour_Provision": "INR61 crores",
+  "Labour_Provision_Desc": "pursuant to the amendment in the definition of wages under the new labour code, we recognized INR61 crores as a onetime exceptional charge towards the past service cost arising from the changes introduced under the new labour code. This is essentially towards gratuity.",
+  "Top_Products": "Pulsar, Dominar, KTM, Husqvarna, Triumph, Freedom 125, Chetak, GoGo",
+  "Major_Customers": "N/A",
+  "Top_Vendors": "Refer to Annual Report Note: Related Party Disclosures",
+  "Wage_Status": "Compliant",
+  "Workforce_Turnover": "95%",
+  "Health_Status": "Compliant",
+  "Strike_Risk": "N/A",
+  "Strategic_Action": "Improve gender diversity across all levels of the organization."
+}

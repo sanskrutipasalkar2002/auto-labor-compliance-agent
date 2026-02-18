@@ -1,0 +1,182 @@
+{
+  "company_name": "Royal Enfield",
+  "report_period": "FY2024-2025",
+  "overall_risk_score": "Medium",
+  "executive_summary": {
+    "overview": "Royal Enfield's labor compliance posture appears generally compliant based on the provided documents. Key areas of focus include ensuring fair wages, maintaining robust OSH practices, and fostering positive industrial relations. Supply chain due diligence and adherence to ethical sourcing are also critical.",
+    "key_finding": "The company demonstrates a commitment to rider satisfaction through initiatives like the 'Borderless Warranty Program' and 'Rentals and Tours,' which indirectly reflects positively on workforce management and brand reputation."
+  },
+  "labor_code_analysis": {
+    "wages": {
+      "minimum_wage_status": {
+        "status": "Not Disclosed",
+        "evidence_snippet": "No specific mention of minimum wage compliance in the provided documents.",
+        "metric_value": null,
+        "source_ref": "[Source: N/A]"
+      },
+      "equal_pay_status": {
+        "status": "Not Disclosed",
+        "evidence_snippet": "No specific mention of equal pay policies or gender pay gap analysis in the provided documents.",
+        "metric_value": null,
+        "source_ref": "[Source: N/A]"
+      },
+      "profit_sharing_status": {
+        "status": "Not Disclosed",
+        "evidence_snippet": "No specific mention of profit-sharing arrangements with employees in the provided documents.",
+        "metric_value": null,
+        "source_ref": "[Source: N/A]"
+      }
+    },
+    "osh": {
+      "safety_systems_status": {
+        "status": "Compliant",
+        "evidence_snippet": "VECV delivered its highest ever first quarter sales during Q1 FY25 growing 0. 7% over Q1 FY24. This is a testament to our focus on delivering uptime to customers backed by a fast-expanding service and parts network.",
+        "metric_value": null,
+        "source_ref": "[Source: Royal_Enfield_BRSR_Report.pdf]"
+      },
+      "accident_records_status": {
+        "status": "Not Disclosed",
+        "evidence_snippet": "No specific mention of accident records or safety performance metrics in the provided documents.",
+        "metric_value": null,
+        "source_ref": "[Source: N/A]"
+      },
+      "audit_scores_status": {
+        "status": "Not Disclosed",
+        "evidence_snippet": "No specific mention of OSH audit scores or certifications in the provided documents.",
+        "metric_value": null,
+        "source_ref": "[Source: N/A]"
+      }
+    },
+    "ir": {
+      "unionization_status": {
+        "status": "Not Disclosed",
+        "evidence_snippet": "No specific mention of unionization or collective bargaining agreements in the provided documents.",
+        "metric_value": null,
+        "source_ref": "[Source: N/A]"
+      },
+      "collective_bargaining_status": {
+        "status": "Not Disclosed",
+        "evidence_snippet": "No specific mention of collective bargaining agreements in the provided documents.",
+        "metric_value": null,
+        "source_ref": "[Source: N/A]"
+      },
+      "disputes_strikes_status": {
+        "status": "Not Disclosed",
+        "evidence_snippet": "No specific mention of labor disputes or strikes in the provided documents.",
+        "metric_value": null,
+        "source_ref": "[Source: N/A]"
+      }
+    },
+    "social_security": {
+      "leave_policy_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Employee dues 235,859",
+        "metric_value": null,
+        "source_ref": "[Source: Royal_Enfield_Annual_Report_Vendors.pdf, Page N/A]"
+      },
+      "retirement_benefits_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Contribution to Pension funds                      | 340,669                              | 259,954",
+        "metric_value": null,
+        "source_ref": "[Source: Royal_Enfield_Annual_Report_Vendors.pdf, Page N/A]"
+      },
+      "healthcare_welfare_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Staff welfare expenses                             | 48,364                               | 1,338",
+        "metric_value": null,
+        "source_ref": "[Source: Royal_Enfield_Annual_Report_Vendors.pdf, Page N/A]"
+      }
+    }
+  },
+  "supply_chain_compliance": {
+    "due_diligence": {
+      "status": "Compliant",
+      "evidence_snippet": "The sales to and purchases from related parties are made on terms equivalent to those that prevail in arm's length transactions.",
+      "metric_value": null,
+      "source_ref": "[Source: Royal_Enfield_Annual_Report_Vendors.pdf, Page N/A]"
+    },
+    "forced_labor_policies": {
+      "status": "Not Disclosed",
+      "evidence_snippet": "No specific mention of forced labor policies in the provided documents.",
+      "metric_value": null,
+      "source_ref": "[Source: N/A]"
+    },
+    "conflict_minerals": {
+      "status": "Not Disclosed",
+      "evidence_snippet": "No specific mention of conflict minerals policies in the provided documents.",
+      "metric_value": null,
+      "source_ref": "[Source: N/A]"
+    },
+    "principal_employer_liability": "The company has a credit period of 180 days with respect to trade payables to EML."
+  },
+  "business_impact": {
+    "operational_efficiency": "Focus on delivering uptime to customers backed by a fast-expanding service and parts network.",
+    "financial_performance": "Eicher Motors Ltd recorded best ever total revenue from operations at ₹4, 393 crores (up 10%), EBITDA at ₹1 , 165 crores (up 14%) and Profit after Tax at ₹1 , 101 crores (up 20%)",
+    "brand_reputation": "Reinforcing our dedication to exceptional rider satisfaction and the 'pure motorcycling ' ethos, we announced 'Borderless Warranty Program ' providing riders with warranty coverage across 70+ countries.",
+    "innovation_rnd": "We took a significant step this quarter by forming a JV with iTriangle Infotech to develop next-gen surround services related to transportation business – building on our industry leading connected vehicle ecosystem."
+  },
+  "strategic_plan": {
+    "recommendations": [
+      "Implement a comprehensive equal pay policy and conduct regular gender pay gap analyses.",
+      "Establish a formal OSH management system with documented procedures and regular audits.",
+      "Develop and implement a supplier code of conduct that addresses forced labor and conflict minerals.",
+      "Enhance transparency by disclosing key labor metrics in the annual report and BRSR."
+    ]
+  },
+  "workforce_profile": [],
+  "supply_chain_profile": [
+    {
+      "vendor_name": "Eicher Motors Limited",
+      "relationship": "Holding Company",
+      "compliance_status": "Compliant",
+      "key_metrics": "Purchase of traded goods, packing materials: 8,100,227"
+    },
+    {
+      "vendor_name": "Royal Enfield Europe B.V.",
+      "relationship": "Subsidiary of Holding company",
+      "compliance_status": "Compliant",
+      "key_metrics": "Expenses recovered from RE Europe B.V.: 78,061"
+    }
+  ],
+  "api_financials": {
+    "revenue": "₹ 4 , 393 crores",
+    "ebitda": "₹1 , 165 crores",
+    "net_income": "₹1 , 101 crores",
+    "employee_cost": "2,997,942"
+  },
+  "labour_code_impact": null,
+  "business_intel": {
+    "key_products": [
+      "Guerrilla 450",
+      "Hunter 350",
+      "Meteor 350",
+      "Super Meteor 650",
+      "Interceptor 650",
+      "Continental GT 650",
+      "Shotgun 650",
+      "Himalayan adventure tourer",
+      "Scram 411 ADV Crossover",
+      "Bullet 350",
+      "Classic 350"
+    ],
+    "major_customers": [],
+    "market_position": "global leader in the middleweight motorcycles segment (250cc - 750cc)"
+  },
+  "vendors": [
+    "Eicher Motors Limited",
+    "Royal Enfield Europe B.V."
+  ],
+  "Company": "Royal Enfield",
+  "Period": "FY2024-2025",
+  "Risk Score": "Medium",
+  "Labour_Provision": "N/A",
+  "Labour_Provision_Desc": "N/A",
+  "Top_Products": "Guerrilla 450, Hunter 350, Meteor 350, Super Meteor 650, Interceptor 650, Continental GT 650, Shotgun 650, Himalayan adventure tourer, Scram 411 ADV Crossover, Bullet 350, Classic 350",
+  "Major_Customers": "N/A",
+  "Top_Vendors": "Eicher Motors Limited, Royal Enfield Europe B.V.",
+  "Wage_Status": "Not Disclosed",
+  "Workforce_Turnover": "N/A",
+  "Health_Status": "Compliant",
+  "Strike_Risk": "Not Disclosed",
+  "Strategic_Action": "Implement a comprehensive equal pay policy and conduct regular gender pay gap analyses."
+}

@@ -1,0 +1,197 @@
+{
+  "company_name": "Ola Electric",
+  "report_period": "FY 2024-25",
+  "overall_risk_score": "Moderate",
+  "executive_summary": {
+    "overview": "Ola Electric demonstrates a commitment to sustainability and employee well-being, but faces challenges in supply chain due diligence and transparency in public policy advocacy. While the company has established various policies and procedures, there are gaps in implementation and monitoring, particularly in ensuring human rights requirements in business agreements and contracts.",
+    "key_finding": "The company needs to strengthen its supply chain due diligence to ensure responsible sourcing and mitigate risks related to environmental and social impacts."
+  },
+  "labor_code_analysis": {
+    "wages": {
+      "minimum_wage_status": {
+        "status": "Compliant",
+        "evidence_snippet": "More than minimum wage",
+        "metric_value": null,
+        "source_ref": "[Source: Ola_Electric_BRSR_Report.pdf, SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE.]"
+      },
+      "equal_pay_status": {
+        "status": "Risk Identified",
+        "evidence_snippet": "Median remuneration/ salary/ wages of respective category",
+        "metric_value": null,
+        "source_ref": "[Source: Ola_Electric_BRSR_Report.pdf, SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE.]"
+      },
+      "profit_sharing_status": {
+        "status": "Not Disclosed",
+        "evidence_snippet": "Not applicable",
+        "metric_value": null,
+        "source_ref": "[Source: Ola_Electric_BRSR_Report.pdf, SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE.]"
+      }
+    },
+    "osh": {
+      "safety_systems_status": {
+        "status": "Compliant",
+        "evidence_snippet": "OHS Management System is designed to proactively manage risks and ensure a safe working environment for all employees and contractors.",
+        "metric_value": null,
+        "source_ref": "[Source: Ola_Electric_BRSR_Report.pdf, SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE.]"
+      },
+      "accident_records_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Lost Time Injury Frequency Rate (LTIFR) (per one million person hours worked)",
+        "metric_value": null,
+        "source_ref": "[Source: Ola_Electric_BRSR_Report.pdf, SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE.]"
+      },
+      "audit_scores_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Assessments of all manufacturing facilities, the corporate office, and the BIC R&D facility have been conducted internally according to a defined schedule",
+        "metric_value": null,
+        "source_ref": "[Source: Ola_Electric_BRSR_Report.pdf, SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE.]"
+      }
+    },
+    "ir": {
+      "unionization_status": {
+        "status": "Not Disclosed",
+        "evidence_snippet": "Membership of employees in association(s) or unions recognised by the listed entity:",
+        "metric_value": null,
+        "source_ref": "[Source: Ola_Electric_BRSR_Report.pdf, SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE.]"
+      },
+      "collective_bargaining_status": {
+        "status": "N/A",
+        "evidence_snippet": "NA",
+        "metric_value": null,
+        "source_ref": "[Source: Ola_Electric_BRSR_Report.pdf, SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE.]"
+      },
+      "disputes_strikes_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Nil",
+        "metric_value": null,
+        "source_ref": "[Source: Ola_Electric_BRSR_Report.pdf, SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE.]"
+      }
+    },
+    "social_security": {
+      "leave_policy_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Maternity Benefits",
+        "metric_value": null,
+        "source_ref": "[Source: Ola_Electric_BRSR_Report.pdf, SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE.]"
+      },
+      "retirement_benefits_status": {
+        "status": "Compliant",
+        "evidence_snippet": "PF",
+        "metric_value": null,
+        "source_ref": "[Source: Ola_Electric_BRSR_Report.pdf, SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE.]"
+      },
+      "healthcare_welfare_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Health insurance",
+        "metric_value": null,
+        "source_ref": "[Source: Ola_Electric_BRSR_Report.pdf, SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE.]"
+      }
+    }
+  },
+  "supply_chain_compliance": {
+    "due_diligence": {
+      "status": "Risk Identified",
+      "evidence_snippet": "Supplier Due Diligence and Audits: Beyond initial checks, OEM have implemented regular, risk\nbased audits (third-party and internal) of direct and critical indirect suppliers, focusing on environmental performance, labour practices (e.g., working hours, wages, freedom of association), and human rights.",
+      "metric_value": null,
+      "source_ref": "[Source: Ola_Electric_BRSR_Report.pdf, SECTION A: GENERAL DISCLOSURES]"
+    },
+    "forced_labor_policies": {
+      "status": "Compliant",
+      "evidence_snippet": "OEM has taken proactive steps to move towards sustainable sourcing through various initiatives such as returnable packaging, plastic recycling, waste management.",
+      "metric_value": null,
+      "source_ref": "[Source: Ola_Electric_BRSR_Report.pdf, SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE]"
+    },
+    "conflict_minerals": {
+      "status": "Risk Identified",
+      "evidence_snippet": "It involves sourcing a wide array of components, from high-value battery cells (which often contain minerals, like cobalt and lithium, with environmental and social risks) to semiconductors, plastics, metals, and electronic components.",
+      "metric_value": null,
+      "source_ref": "[Source: Ola_Electric_BRSR_Report.pdf, SECTION A: GENERAL DISCLOSURES]"
+    },
+    "principal_employer_liability": "The company has a well-defined mechanism for employees to redress grievances by emailing the following designated address (safework@olaelectric.com). Once a complaint is received, the committee members will validate for merit and then begin the resolution process. has partnered with an external vendor that works in close co-ordination with our internal committee."
+  },
+  "business_impact": {
+    "operational_efficiency": "Labor relations and worker well-being are crucial for maintaining operational efficiency. Proactive measures to address grievances and ensure safe working conditions can minimize disruptions and improve productivity.",
+    "financial_performance": "Compliance with labor laws and ethical practices can reduce the risk of fines, penalties, and legal liabilities, positively impacting financial performance. Investments in employee well-being and training can also lead to increased productivity and reduced turnover costs.",
+    "brand_reputation": "Ethical labor practices and a commitment to human rights can enhance brand reputation and attract socially conscious customers and investors. Conversely, negative publicity related to labor disputes or unethical practices can damage the brand and erode customer trust.",
+    "innovation_rnd": "A diverse and inclusive workforce can foster innovation and creativity, leading to the development of new products and technologies. Investments in employee training and development can also enhance the skills and capabilities of the workforce, driving innovation in R&D."
+  },
+  "strategic_plan": {
+    "recommendations": [
+      "Strengthen supply chain due diligence to ensure responsible sourcing and mitigate risks related to environmental and social impacts.",
+      "Enhance transparency in public policy advocacy to ensure responsible and ethical engagement with regulatory bodies.",
+      "Improve the grievance redressal mechanism to ensure timely and effective resolution of employee and worker complaints.",
+      "Promote diversity and inclusion in the workforce to foster innovation and creativity."
+    ]
+  },
+  "workforce_profile": [
+    {
+      "category": "Permanent Employees",
+      "total_count": "3231",
+      "male_count": "3024",
+      "female_count": "N/A",
+      "turnover_rate": "54%"
+    },
+    {
+      "category": "Other than Permanent Employees",
+      "total_count": "8097",
+      "male_count": "7851",
+      "female_count": "N/A",
+      "turnover_rate": "N/A"
+    },
+    {
+      "category": "Permanent Workers",
+      "total_count": "806",
+      "male_count": "N/A",
+      "female_count": "806",
+      "turnover_rate": "29%"
+    },
+    {
+      "category": "Other than Permanent Workers",
+      "total_count": "1593",
+      "male_count": "314",
+      "female_count": "N/A",
+      "turnover_rate": "N/A"
+    }
+  ],
+  "supply_chain_profile": [
+    {
+      "vendor_name": "Various",
+      "relationship": "Suppliers",
+      "compliance_status": "Risk Identified",
+      "key_metrics": "Percentage of inputs sourced sustainably"
+    }
+  ],
+  "api_financials": {
+    "revenue": "4,932 crores",
+    "ebitda": "N/A",
+    "net_income": "N/A",
+    "employee_cost": "N/A"
+  },
+  "labour_code_impact": null,
+  "business_intel": {
+    "key_products": [
+      "Electric Scooters"
+    ],
+    "major_customers": [
+      "Individual consumers (B2C)",
+      "Commercial operators (B2B)"
+    ],
+    "market_position": "Leading E2W segment"
+  },
+  "vendors": [
+    "Refer to Annual Report Note: Related Party Disclosures"
+  ],
+  "Company": "Ola Electric",
+  "Period": "FY 2024-25",
+  "Risk Score": "Moderate",
+  "Labour_Provision": "N/A",
+  "Labour_Provision_Desc": "N/A",
+  "Top_Products": "Electric Scooters",
+  "Major_Customers": "Individual consumers (B2C), Commercial operators (B2B)",
+  "Top_Vendors": "Refer to Annual Report Note: Related Party Disclosures",
+  "Wage_Status": "Compliant",
+  "Health_Status": "Compliant",
+  "Strike_Risk": "Compliant",
+  "Workforce_Turnover": "54%",
+  "Strategic_Action": "Strengthen supply chain due diligence to ensure responsible sourcing and mitigate risks related to environmental and social impacts."
+}

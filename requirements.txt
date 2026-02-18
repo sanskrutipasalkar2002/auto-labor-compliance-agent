@@ -1,0 +1,25 @@
+# Consolidated Python requirements for the project
+
+# --- Core Application Logic ---
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# --- Ingestion & Parsing ---
+llama-parse>=0.4.0
+llama-index-core>=0.10.0
+openpyxl>=3.1.2
+pandas>=2.0.0
+
+# --- Reasoning & Orchestration ---
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langgraph>=0.0.10
+chromadb>=0.4.0
+
+# --- Utilities ---
+tiktoken>=0.5.0
+colorama>=0.4.6
+
+# --- Testing & QA ---
+pytest>=7.0.0
+pytest-asyncio>=0.23.0

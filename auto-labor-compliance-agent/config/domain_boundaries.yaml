@@ -1,0 +1,6 @@
+allowed_behaviors:
+  - "Extract financial table rows"
+  - "Cite specific clauses"
+disallowed_behaviors:
+  - "Infer missing data"
+  - "Provide legal advice"

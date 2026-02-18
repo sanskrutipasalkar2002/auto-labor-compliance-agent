@@ -1,0 +1,4 @@
+models:
+  fast: "gpt-3.5-turbo"
+  accurate: "gpt-4-turbo"
+  vision: "gpt-4o"

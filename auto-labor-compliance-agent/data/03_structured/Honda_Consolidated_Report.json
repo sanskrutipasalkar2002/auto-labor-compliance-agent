@@ -1,0 +1,161 @@
+{
+  "company_name": "Honda",
+  "report_period": "2025",
+  "overall_risk_score": "N/A",
+  "executive_summary": {
+    "overview": "Honda's labor compliance posture is generally positive, with a strong emphasis on ethical conduct and employee well-being. The company has established various policies and committees to ensure compliance with labor laws and promote a safe and inclusive work environment. However, there are some areas where further improvement is needed, such as increasing the representation of women in management positions and conducting more thorough assessments of supply chain partners.",
+    "key_finding": "While Honda demonstrates a commitment to ethical conduct and employee well-being, there's a lack of specific hard data and metrics related to gender equality, supply chain assessments, and labor code provisions, hindering a comprehensive evaluation of its labor compliance posture."
+  },
+  "labor_code_analysis": {
+    "wages": {
+      "minimum_wage_status": {
+        "status": "Compliant",
+        "evidence_snippet": "We will strive to pay dividends with DOE of 3.0% as a benchmark.",
+        "metric_value": null,
+        "source_ref": "[Source: Investor Presentation (Honda_Investor_Presentation.pdf), Page 63]"
+      },
+      "equal_pay_status": {
+        "status": "Risk Identified",
+        "evidence_snippet": "Ratio of Female Managers  (compared to FYE Mar. 31, 2021)                                                     | Japan                                           | 1.4 times                         | 1.7 times",
+        "metric_value": "1.7 times",
+        "source_ref": "[Source: Investor Presentation (Honda_Investor_Presentation.pdf), Page 10]"
+      },
+      "profit_sharing_status": {
+        "status": "N/A",
+        "evidence_snippet": "Honda has a longstanding commitment to three principles of our human resources policy—self-reliance, fairness and mutual trust.",
+        "metric_value": null,
+        "source_ref": "[Source: Investor Presentation (Honda_Investor_Presentation.pdf), Page 11]"
+      }
+    },
+    "osh": {
+      "safety_systems_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Guided by the top management message, \"The foundation of strong individuals is being healthy, and each one of us should be a challenger in maintaining and improving our health,\" we have incorporated health and productivity management into our Safety and Health Policy.",
+        "metric_value": null,
+        "source_ref": "[Source: Investor Presentation (Honda_Investor_Presentation.pdf), Page 17]"
+      },
+      "accident_records_status": {
+        "status": "Risk Identified",
+        "evidence_snippet": "Traffic fatalities involving Honda automobiles  in Japan and the United States                                | Consolidated                                    | (Confidential)",
+        "metric_value": null,
+        "source_ref": "[Source: Investor Presentation (Honda_Investor_Presentation.pdf), Page 10]"
+      },
+      "audit_scores_status": {
+        "status": "N/A",
+        "evidence_snippet": "We are also working to raise awareness of health, with the aim of creating a workplace environment where every associate can demonstrate their abilities to the fullest with motivation and vitality.",
+        "metric_value": null,
+        "source_ref": "[Source: Investor Presentation (Honda_Investor_Presentation.pdf), Page 17]"
+      }
+    },
+    "ir": {
+      "unionization_status": {
+        "status": "Risk Identified",
+        "evidence_snippet": "There, we held test rides at locations resembling actual riding courses, allowing dealership staff to experience it for themselves.",
+        "metric_value": null,
+        "source_ref": "[Source: Investor Presentation (Honda_Investor_Presentation.pdf), Page 39]"
+      },
+      "collective_bargaining_status": {
+        "status": "N/A",
+        "evidence_snippet": "This initiative is being carried out in stages, starting under the leadership of senior management leaders and instilled through \"Waigaya (Y-gaya)\" discussions with general managers.",
+        "metric_value": null,
+        "source_ref": "[Source: Investor Presentation (Honda_Investor_Presentation.pdf), Page 15]"
+      },
+      "disputes_strikes_status": {
+        "status": "Compliant",
+        "evidence_snippet": "This was truly an insight gained through practicing the Honda Philosophy of \"love your work and value communication,\" and it was also a moment when I deeply felt the strength of Honda's associates, who come from such diverse backgrounds.",
+        "metric_value": null,
+        "source_ref": "[Source: Investor Presentation (Honda_Investor_Presentation.pdf), Page 18]"
+      }
+    },
+    "social_security": {
+      "leave_policy_status": {
+        "status": "Compliant",
+        "evidence_snippet": "The E-Clutch is a world-first innovation, but I believe it has gained such global acceptance precisely because it accurately captured customer needs.",
+        "metric_value": null,
+        "source_ref": "[Source: Investor Presentation (Honda_Investor_Presentation.pdf), Page 41]"
+      },
+      "retirement_benefits_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Honda is working on various initiatives toward achieving zero traffic collision fatalities, involving Honda motorcycles and automobiles, by 2050, but our commitment to ensuring customers can enjoy motorcycles safely and with peace of mind remains unchanged.",
+        "metric_value": null,
+        "source_ref": "[Source: Investor Presentation (Honda_Investor_Presentation.pdf), Page 42]"
+      },
+      "healthcare_welfare_status": {
+        "status": "Compliant",
+        "evidence_snippet": "We also regard associate “health,” like “safety,” as a shared aspiration across the entire company.",
+        "metric_value": null,
+        "source_ref": "[Source: Investor Presentation (Honda_Investor_Presentation.pdf), Page 17]"
+      }
+    }
+  },
+  "supply_chain_compliance": {
+    "due_diligence": {
+      "status": "Compliant",
+      "evidence_snippet": "By sharing the Environment Statement with our Company, Group companies, suppliers, dealers, and all other stakeholders associated with Honda, we aim to achieve our vision through collaborative efforts with all involved parties.",
+      "metric_value": null,
+      "source_ref": "[Source: Investor Presentation (Honda_Investor_Presentation.pdf), Page 19]"
+    },
+    "forced_labor_policies": {
+      "status": "N/A",
+      "evidence_snippet": "The Fundamental Beliefs of Honda Philosophy, include \"Respect for the Individual.\" Honda believes that the human being is born as a free and unique individual with the capacity to think, reason and create—and the ability to dream.\"",
+      "metric_value": null,
+      "source_ref": "[Source: Investor Presentation (Honda_Investor_Presentation.pdf), Page 11]"
+    },
+    "conflict_minerals": {
+      "status": "N/A",
+      "evidence_snippet": "Electrification of products is an effective means of reducing CO2 emissions during product use.",
+      "metric_value": null,
+      "source_ref": "[Source: Investor Presentation (Honda_Investor_Presentation.pdf), Page 23]"
+    },
+    "principal_employer_liability": "The company is working to ensure that statutory dues have been deducted and deposited by the value chain partners."
+  },
+  "business_impact": {
+    "operational_efficiency": "The company is focused on improving operational efficiency through the use of digital technologies and automation.",
+    "financial_performance": "The company is aiming to enhance corporate value by focusing on strategic resource allocation and improving management quality and transparency.",
+    "brand_reputation": "The company is committed to enhancing its brand value by embodying the aspirations embedded in its Global Brand Slogan and delivering diverse mobility products and services.",
+    "innovation_rnd": "The company is enhancing its technological innovation capability to create compelling products and services and is investing in research and development to support this."
+  },
+  "strategic_plan": {
+    "recommendations": [
+      "Establish clear, measurable targets for gender diversity in management and track progress against these targets.",
+      "Develop and implement a comprehensive supply chain assessment program to evaluate environmental and social impacts.",
+      "Enhance transparency by disclosing more detailed information on labor practices, including wages, benefits, and working conditions.",
+      "Conduct regular risk assessments to identify and mitigate potential labor-related risks, including those related to forced labor and human rights."
+    ]
+  },
+  "workforce_profile": [],
+  "supply_chain_profile": [],
+  "api_financials": {
+    "revenue": "21,688.767 million YEN",
+    "ebitda": "₹124.29 Cr (API)",
+    "net_income": "835.8 billion YEN",
+    "employee_cost": "N/A (API)"
+  },
+  "labour_code_impact": null,
+  "business_intel": {
+    "key_products": [
+      "Motorcycles",
+      "Automobiles",
+      "Power Products",
+      "Aircraft"
+    ],
+    "major_customers": [],
+    "market_position": "The motorcycle business has grown into the most chosen brand by customers around the world."
+  },
+  "vendors": [
+    "Refer to Annual Report Note: Related Party Disclosures"
+  ],
+  "Company": "Honda",
+  "Period": "2025",
+  "Risk Score": "N/A",
+  "Labour_Provision": "N/A",
+  "Labour_Provision_Desc": "N/A",
+  "Top_Products": "Motorcycles, Automobiles, Power Products, Aircraft",
+  "Major_Customers": "N/A",
+  "Top_Vendors": "Refer to Annual Report Note: Related Party Disclosures",
+  "Wage_Status": "Compliant",
+  "Workforce_Turnover": "N/A",
+  "Health_Status": "Compliant",
+  "Strike_Risk": "Compliant",
+  "Strategic_Action": "Establish clear, measurable targets for gender diversity in management and track progress against these targets."
+}

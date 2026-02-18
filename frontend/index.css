@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ... rest of your styles ... */
+
+body {
+  @apply bg-background text-text antialiased;
+  overflow-x: hidden;
+}

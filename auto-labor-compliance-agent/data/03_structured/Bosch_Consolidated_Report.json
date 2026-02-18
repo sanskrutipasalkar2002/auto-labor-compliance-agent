@@ -1,0 +1,206 @@
+{
+  "company_name": "Bosch",
+  "report_period": "FY 2023-24",
+  "overall_risk_score": "Moderate",
+  "executive_summary": {
+    "overview": "Bosch demonstrates a commitment to corporate governance and sustainability, as evidenced by its Business Responsibility and Sustainability Report (BRSR). The company exhibits compliance with various environmental and social standards, including efforts to reduce carbon emissions and promote employee well-being. However, there are areas where disclosures could be enhanced, such as providing more detailed information on gender pay equity and specific targets for diversity and inclusion.",
+    "key_finding": "While Bosch demonstrates a strong commitment to sustainability and employee well-being, there is a lack of specific disclosure regarding gender pay equity, which presents a potential risk."
+  },
+  "labor_code_analysis": {
+    "wages": {
+      "minimum_wage_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Equal to Minimum Wage More than Minimum Wage",
+        "metric_value": null,
+        "source_ref": "[Source: Bosch_BRSR_Report.pdf, Page 140]"
+      },
+      "equal_pay_status": {
+        "status": "Risk Identified",
+        "evidence_snippet": "Gross wages paid to females as % of total wages d flf l -----~I-----",
+        "metric_value": "6.5%",
+        "source_ref": "[Source: Bosch_BRSR_Report.pdf, Page 139]"
+      },
+      "profit_sharing_status": {
+        "status": "N/A",
+        "evidence_snippet": "Not Applicable",
+        "metric_value": null,
+        "source_ref": "[Source: None, Page None]"
+      }
+    },
+    "osh": {
+      "safety_systems_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Yes, company-wide regulations define the principles, organization, and responsibilities for occupational safety in the Bosch Group.",
+        "metric_value": null,
+        "source_ref": "[Source: Bosch_BRSR_Report.pdf, Page 133]"
+      },
+      "accident_records_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Lost Time Injury Frequency Rate (LTIFR)**",
+        "metric_value": "0.18",
+        "source_ref": "[Source: Bosch_BRSR_Report.pdf, Page 134]"
+      },
+      "audit_scores_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Health and safety practices 100",
+        "metric_value": "100",
+        "source_ref": "[Source: Bosch_BRSR_Report.pdf, Page 136]"
+      }
+    },
+    "ir": {
+      "unionization_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Total Permanent Workers 2521 2395",
+        "metric_value": "95%",
+        "source_ref": "[Source: Bosch_BRSR_Report.pdf, Page 131]"
+      },
+      "collective_bargaining_status": {
+        "status": "Compliant",
+        "evidence_snippet": "The performance and career development review for workers are as per Long Term Settlement (LTS).",
+        "metric_value": null,
+        "source_ref": "[Source: Bosch_BRSR_Report.pdf, Page 132]"
+      },
+      "disputes_strikes_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Nil",
+        "metric_value": null,
+        "source_ref": "[Source: Bosch_BRSR_Report.pdf, Page 135]"
+      }
+    },
+    "social_security": {
+      "leave_policy_status": {
+        "status": "Compliant",
+        "evidence_snippet": "100%",
+        "metric_value": null,
+        "source_ref": "[Source: Bosch_BRSR_Report.pdf, Page 129]"
+      },
+      "retirement_benefits_status": {
+        "status": "Compliant",
+        "evidence_snippet": "PF 100% of the applicable employees, as per the Act",
+        "metric_value": "100%",
+        "source_ref": "[Source: Bosch_BRSR_Report.pdf, Page 130]"
+      },
+      "healthcare_welfare_status": {
+        "status": "Compliant",
+        "evidence_snippet": "100%",
+        "metric_value": null,
+        "source_ref": "[Source: Bosch_BRSR_Report.pdf, Page 129]"
+      }
+    }
+  },
+  "supply_chain_compliance": {
+    "due_diligence": {
+      "status": "Compliant",
+      "evidence_snippet": "Yes, Company's Supplier Code of Conduct requires suppliers to uphold human rights in their businesses, prioritising the absence of child and forced labour and upholding the laws of the land relating to human rights related aspects.",
+      "metric_value": null,
+      "source_ref": "[Source: Bosch_BRSR_Report.pdf, Page 142]"
+    },
+    "forced_labor_policies": {
+      "status": "Compliant",
+      "evidence_snippet": "We reject any violation of human rights (for instance, forced or child labor), also on the part of our business partners.",
+      "metric_value": null,
+      "source_ref": "[Source: Bosch_BRSR_Report.pdf, Page 141]"
+    },
+    "conflict_minerals": {
+      "status": "Compliant",
+      "evidence_snippet": "Bosch Group Policy for Conflict Raw Material",
+      "metric_value": null,
+      "source_ref": "[Source: Bosch_BRSR_Report.pdf, Page 118]"
+    },
+    "principal_employer_liability": "The company has a grievance redressal mechanism in line with the statutory framework under Industrial Dispute Act, 1947 for grievance redressal mechanism for the permanent workers where workers or their representatives can raise their grievances in areas like wages, discrimination, child labour, human rights related issues etc."
+  },
+  "business_impact": {
+    "operational_efficiency": "The company focuses on improving operational efficiency through various initiatives, including energy conservation and waste reduction projects.",
+    "financial_performance": "The company's financial performance is positively impacted by its sustainability initiatives, such as reducing energy consumption and waste generation.",
+    "brand_reputation": "The company's commitment to sustainability and social responsibility enhances its brand reputation and strengthens its relationships with stakeholders.",
+    "innovation_rnd": "The company invests in R&D to develop innovative technologies that improve resource efficiency and reduce environmental impact."
+  },
+  "strategic_plan": {
+    "recommendations": [
+      "Enhance disclosures on gender pay equity to demonstrate commitment to fair compensation practices.",
+      "Set specific, measurable, achievable, relevant, and time-bound (SMART) targets for diversity and inclusion to drive progress.",
+      "Conduct regular social impact assessments of projects to identify and mitigate any negative social impacts.",
+      "Strengthen engagement with value chain partners to ensure compliance with environmental and social standards."
+    ]
+  },
+  "workforce_profile": [
+    {
+      "category": "Permanent Employees",
+      "total_count": "3125",
+      "male_count": "2797",
+      "female_count": "328",
+      "turnover_rate": "7%"
+    },
+    {
+      "category": "Other than Permanent Employees",
+      "total_count": "391",
+      "male_count": "317",
+      "female_count": "74",
+      "turnover_rate": "N/A"
+    },
+    {
+      "category": "Permanent Workers",
+      "total_count": "2521",
+      "male_count": "2416",
+      "female_count": "105",
+      "turnover_rate": "4%"
+    },
+    {
+      "category": "Other than Permanent Workers",
+      "total_count": "2502",
+      "male_count": "1954",
+      "female_count": "548",
+      "turnover_rate": "N/A"
+    }
+  ],
+  "supply_chain_profile": [
+    {
+      "vendor_name": "MSMEs/ small producers",
+      "relationship": "Suppliers",
+      "compliance_status": "Compliant",
+      "key_metrics": "18.30% of input material sourced"
+    }
+  ],
+  "api_financials": {
+    "revenue": "95,834 million INR",
+    "ebitda": "6,171 million INR",
+    "net_income": "16,696 million INR",
+    "employee_cost": "Not Disclosed"
+  },
+  "labour_code_impact": null,
+  "business_intel": {
+    "key_products": [
+      "Vehicle Control Unit (VCU)",
+      "Electric coolant pump",
+      "Engine Management Systems",
+      "Engine Control Unit",
+      "Fuel Injector",
+      "Lambda sensor",
+      "Pressure sensor"
+    ],
+    "major_customers": [
+      "Automotive OEMs (Original Equipment Manufacturers) in the Passenger Car",
+      "Commercial Car",
+      "Tractors",
+      "Two-Wheeler segments"
+    ],
+    "market_position": "Market leader with a complete range of power tools fulfilling the needs of professional users."
+  },
+  "vendors": [
+    "TVS",
+    "Hero MotoCorp"
+  ],
+  "Company": "Bosch",
+  "Period": "FY 2023-24",
+  "Risk Score": "Moderate",
+  "Labour_Provision": "N/A",
+  "Labour_Provision_Desc": "N/A",
+  "Top_Products": "Vehicle Control Unit (VCU), Electric coolant pump, Engine Management Systems, Engine Control Unit, Fuel Injector, Lambda sensor, Pressure sensor",
+  "Major_Customers": "Automotive OEMs (Original Equipment Manufacturers) in the Passenger Car, Commercial Car, Tractors, Two-Wheeler segments",
+  "Top_Vendors": "TVS, Hero MotoCorp",
+  "Wage_Status": "Compliant",
+  "Workforce_Turnover": "7%",
+  "Health_Status": "Compliant",
+  "Strike_Risk": "Compliant",
+  "Strategic_Action": "Enhance disclosures on gender pay equity to demonstrate commitment to fair compensation practices."
+}

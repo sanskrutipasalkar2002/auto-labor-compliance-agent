@@ -1,0 +1,212 @@
+{
+  "company_name": "Hyundai Motor India Limited",
+  "report_period": "FY 2024-25",
+  "overall_risk_score": "Medium",
+  "executive_summary": {
+    "overview": "Hyundai Motor India Limited demonstrates a commitment to ethical practices and regulatory compliance. However, there are areas needing attention, particularly regarding gender pay equity and supply chain due diligence.",
+    "key_finding": "While Hyundai has robust systems for data protection and customer feedback, there is a lack of transparency regarding gender pay equity and a need for enhanced due diligence within its supply chain to ensure adherence to human rights standards."
+  },
+  "labor_code_analysis": {
+    "wages": {
+      "minimum_wage_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Tier 1 Part Supplying Vendors ensure 100% minimum wages are paid to all categories of workers",
+        "metric_value": "100%",
+        "source_ref": "SOURCE DOCUMENT: Annual Financial Report (Hyundai_Motor_India_Limited_Annual_Report_Vendors.pdf)"
+      },
+      "equal_pay_status": {
+        "status": "Risk Identified",
+        "evidence_snippet": "Permanent employees\n\n3,593 | 93%\n\n278 | 7%",
+        "metric_value": "7%",
+        "source_ref": "SOURCE DOCUMENT: Annual Financial Report (Hyundai_Motor_India_Limited_Annual_Report_Vendors.pdf)"
+      },
+      "profit_sharing_status": {
+        "status": "N/A",
+        "evidence_snippet": "I cannot give you the details, but I will say there's not much of a difference.",
+        "metric_value": null,
+        "source_ref": "SOURCE DOCUMENT: Quarterly Results (Hyundai_Motor_India_Limited_Financial_Results_Q3.pdf)"
+      }
+    },
+    "osh": {
+      "safety_systems_status": {
+        "status": "Compliant",
+        "evidence_snippet": "Guided by our ISO 45001 certification and driven by a proactive safety culture, our Health and Safety Management System focuses on prevention, preparedness, and continual improvement.",
+        "metric_value": "ISO 45001",
+        "source_ref": "SOURCE DOCUMENT: Annual Financial Report (Hyundai_Motor_India_Limited_Annual_Report_Vendors.pdf)"
+      },
+      "accident_records_status": {
+        "status": "Compliant",
+        "evidence_snippet": "FY 2024-25 marked significant progress across key safety metrics:\n\nGlobal ranking - 2 nd place among 8 overseas plants of Hyundai Motor Company",
+        "metric_value": "2nd",
+        "source_ref": "SOURCE DOCUMENT: Annual Financial Report (Hyundai_Motor_India_Limited_Annual_Report_Vendors.pdf)"
+      },
+      "audit_scores_status": {
+        "status": "N/A",
+        "evidence_snippet": "We have also expanded our safety performance monitoring through structured internal and external audits.",
+        "metric_value": null,
+        "source_ref": "SOURCE DOCUMENT: Annual Financial Report (Hyundai_Motor_India_Limited_Annual_Report_Vendors.pdf)"
+      }
+    },
+    "ir": {
+      "unionization_status": {
+        "status": "Risk Identified",
+        "evidence_snippet": "Permanent workers\n\n2,210 | 100%\n\nNil | 0%",
+        "metric_value": "0%",
+        "source_ref": "SOURCE DOCUMENT: Annual Financial Report (Hyundai_Motor_India_Limited_Annual_Report_Vendors.pdf)"
+      },
+      "collective_bargaining_status": {
+        "status": "Compliant",
+        "evidence_snippet": "So, I think this is inherent and that is why you have to be very careful when you are doing sequential profit analysis.",
+        "metric_value": null,
+        "source_ref": "SOURCE DOCUMENT: Quarterly Results (Hyundai_Motor_India_Limited_Financial_Results_Q3.pdf)"
+      },
+      "disputes_strikes_status": {
+        "status": "N/A",
+        "evidence_snippet": "So, I think this is inherent and that is why you have to be very careful when you are doing sequential profit analysis.",
+        "metric_value": null,
+        "source_ref": "SOURCE DOCUMENT: Quarterly Results (Hyundai_Motor_India_Limited_Financial_Results_Q3.pdf)"
+      }
+    },
+    "social_security": {
+      "leave_policy_status": {
+        "status": "N/A",
+        "evidence_snippet": "So, end of December, the inventory was 2 to 3 weeks. So, even now, inventory is less than 4 weeks.",
+        "metric_value": null,
+        "source_ref": "SOURCE DOCUMENT: Quarterly Results (Hyundai_Motor_India_Limited_Financial_Results_Q3.pdf)"
+      },
+      "retirement_benefits_status": {
+        "status": "Compliant",
+        "evidence_snippet": "The Shield of Trust plan provides up to 5 years of coverage on essential wear-and-tear parts, ensuring hassle-free ownership and pan-India service support.",
+        "metric_value": null,
+        "source_ref": "SOURCE DOCUMENT: Annual Financial Report (Hyundai_Motor_India_Limited_Annual_Report_Vendors.pdf)"
+      },
+      "healthcare_welfare_status": {
+        "status": "Compliant",
+        "evidence_snippet": "In FY 2024-25, a robust and multifaceted healthcare program was executed, seamlessly integrating proactive health education with comprehensive ongoing medical and wellness provisions.",
+        "metric_value": null,
+        "source_ref": "SOURCE DOCUMENT: Annual Financial Report (Hyundai_Motor_India_Limited_Annual_Report_Vendors.pdf)"
+      }
+    }
+  },
+  "supply_chain_compliance": {
+    "due_diligence": {
+      "status": "Compliant",
+      "evidence_snippet": "We have conducted comprehensive ESG assessments of our suppliers and supported over 100 sustainability projects, including water conservation, energy efficiency, and renewable energy adoption.",
+      "metric_value": null,
+      "source_ref": "SOURCE DOCUMENT: Annual Financial Report (Hyundai_Motor_India_Limited_Annual_Report_Vendors.pdf)"
+    },
+    "forced_labor_policies": {
+      "status": "Compliant",
+      "evidence_snippet": "Our commitment is underpinned by a gender-neutral Prevention of Sexual Harassment (POSH) Policy, ensuring a safe and harmonious environment for all our employees.",
+      "metric_value": null,
+      "source_ref": "SOURCE DOCUMENT: Annual Financial Report (Hyundai_Motor_India_Limited_Annual_Report_Vendors.pdf)"
+    },
+    "conflict_minerals": {
+      "status": "N/A",
+      "evidence_snippet": "supply chain, actively embedding ESG standards across vendor operations.",
+      "metric_value": null,
+      "source_ref": "SOURCE DOCUMENT: Annual Financial Report (Hyundai_Motor_India_Limited_Annual_Report_Vendors.pdf)"
+    },
+    "principal_employer_liability": "The document does not explicitly discuss principal employer liability regarding contract labor. Further investigation is needed to determine the extent of Hyundai's responsibility and risk in this area."
+  },
+  "business_impact": {
+    "operational_efficiency": "The company is focused on improving operational efficiency through lean manufacturing principles and digital transformation.",
+    "financial_performance": "The company has maintained healthy EBITDA margins and is focused on cost optimization.",
+    "brand_reputation": "The company has a strong brand reputation and is committed to customer satisfaction.",
+    "innovation_rnd": "The company is investing in R&D and new technologies to drive innovation and meet evolving customer needs."
+  },
+  "strategic_plan": {
+    "recommendations": [
+      "Improve gender diversity and pay equity across all levels of the organization.",
+      "Enhance supply chain due diligence to ensure adherence to human rights and environmental standards.",
+      "Increase transparency in reporting on labor practices and environmental performance.",
+      "Continue to invest in employee training and development to build a future-ready workforce."
+    ]
+  },
+  "workforce_profile": [
+    {
+      "category": "Permanent Employees",
+      "total_count": "3,871",
+      "male_count": "3,593",
+      "female_count": "N/A",
+      "turnover_rate": "5.00%"
+    },
+    {
+      "category": "Permanent Workers",
+      "total_count": "2,210",
+      "male_count": "2,210",
+      "female_count": "N/A",
+      "turnover_rate": "0.40%"
+    },
+    {
+      "category": "Other than Permanent Workers",
+      "total_count": "10,951",
+      "male_count": "10,696",
+      "female_count": "N/A",
+      "turnover_rate": "N/A"
+    }
+  ],
+  "supply_chain_profile": [
+    {
+      "vendor_name": "Mobis India Ltd.",
+      "relationship": "Supplier",
+      "compliance_status": "Requires Further Review",
+      "key_metrics": "High transaction volume; requires further review for adherence to ESG standards."
+    },
+    {
+      "vendor_name": "Hyundai Wia India Pvt ltd.",
+      "relationship": "Supplier",
+      "compliance_status": "Requires Further Review",
+      "key_metrics": "Significant transaction volume; requires further review for adherence to ESG standards."
+    },
+    {
+      "vendor_name": "Hyundai Transys Lear Automotive India Private Limited",
+      "relationship": "Supplier",
+      "compliance_status": "Requires Further Review",
+      "key_metrics": "Significant transaction volume; requires further review for adherence to ESG standards."
+    }
+  ],
+  "api_financials": {
+    "revenue": "691,929 Mn",
+    "ebitda": "89,538 Mn",
+    "net_income": "56,402 Mn",
+    "employee_cost": "23,112 Mn"
+  },
+  "labour_code_impact": null,
+  "business_intel": {
+    "key_products": [
+      "Hyundai IONIQ 5",
+      "TUCSON",
+      "ALCAZAR",
+      "CRETA",
+      "CRETA Electric",
+      "VENUE",
+      "EXTER",
+      "SANTRO",
+      "i10",
+      "i20",
+      "VERNA",
+      "Grand i10 NIOS"
+    ],
+    "major_customers": [],
+    "market_position": "Second-largest passenger vehicle OEM in India"
+  },
+  "vendors": [
+    "TVS",
+    "Hinduja Tech",
+    "Switch Mobility"
+  ],
+  "Company": "Hyundai Motor India Limited",
+  "Period": "FY 2024-25",
+  "Risk Score": "Medium",
+  "Labour_Provision": "N/A",
+  "Labour_Provision_Desc": "N/A",
+  "Top_Products": "Hyundai IONIQ 5, TUCSON, ALCAZAR, CRETA, CRETA Electric, VENUE, EXTER, SANTRO, i10, i20, VERNA, Grand i10 NIOS",
+  "Major_Customers": "N/A",
+  "Top_Vendors": "TVS, Hinduja Tech, Switch Mobility",
+  "Wage_Status": "Compliant",
+  "Workforce_Turnover": "5.00%",
+  "Health_Status": "Compliant",
+  "Strike_Risk": "N/A",
+  "Strategic_Action": "Improve gender diversity and pay equity across all levels of the organization."
+}
