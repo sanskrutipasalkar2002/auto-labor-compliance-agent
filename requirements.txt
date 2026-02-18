@@ -1,30 +1,35 @@
-# Consolidated Python requirements for the project
+# --- Web API & Server (CRITICAL) ---
+fastapi>=0.109.0         # The Web Framework
+uvicorn[standard]>=0.27.0 # Server (Includes 'websockets' & 'uvloop' for async speed)
+python-multipart>=0.0.9  # Required for file uploads/forms
+websockets>=12.0         # Explicitly required for your @app.websocket endpoint
 
-# --- Core Application Logic ---
-pydantic>=2.0.0
-python-dotenv>=1.0.0
+# --- PDF Generation (THE FIX FOR YOUR CRASH) ---
+reportlab>=4.0.0         # Required to generate the Forensic PDF Reports
 
-# --- Ingestion & Parsing ---
-llama-parse>=0.4.0
-llama-index-core>=0.10.0
-openpyxl>=3.1.2
-pandas>=2.0.0
+# --- Ingestion & Web Scraping (For 'WebHunter') ---
+requests>=2.31.0         # The standard way to download web pages/APIs
+beautifulsoup4>=4.12.0   # Required to parse HTML from websites
+llama-parse>=0.4.0       # The "Table Surgeon" for parsing PDF financial tables
+llama-index-core>=0.10.0 # Core logic for LlamaParse
 
-# --- Reasoning & Orchestration ---
-langchain>=0.1.0
-langchain-openai>=0.0.5
-langgraph>=0.0.10
-chromadb>=0.4.0
+# --- Data Processing ---
+pandas>=2.0.0            # For manipulating the financial data tables
+openpyxl>=3.1.2          # For reading/writing Excel files
+
+# --- AI Reasoning & Orchestration ---
+langchain>=0.1.0         # Base Agent Framework
+langchain-openai>=0.0.5  # Connection to GPT Models
+langgraph>=0.0.10        # Managing the "Audit Loop" state machine
+chromadb>=0.4.0          # Vector Database for memory
+pydantic>=2.0.0          # Data validation (Strict schemas)
 
 # --- Utilities ---
-tiktoken>=0.5.0
-colorama>=0.4.6
+python-dotenv>=1.0.0     # Loading .env variables (API Keys)
+tiktoken>=0.5.0          # Counting tokens to manage costs
+colorama>=0.4.6          # Colored logs for easier debugging
+aiofiles>=23.2.0         # Async file handling (Highly recommended for FileResponse)
 
-# --- Testing & QA ---
+# --- Testing ---
 pytest>=7.0.0
 pytest-asyncio>=0.23.0
-
-# --- Web API & Server (CRITICAL - MISSING) ---
-fastapi>=0.109.0         # The Web Framework you are using
-uvicorn[standard]>=0.27.0 # The Server that runs the Python app
-python-multipart>=0.0.9  # Required if you upload files (PDFs) to the API
