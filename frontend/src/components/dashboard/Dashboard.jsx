@@ -176,8 +176,8 @@ const Dashboard = () => {
             setRunner({ status: 'PROCESSING', company: companyName, progress: 0, progressMsg: "Initializing..." });
         }
 
-        // 2. Open WebSocket
-        const ws = new WebSocket("ws://localhost:8000/ws/audit");
+        // 2. Open WebSocket (production backend on Railway - use secure WSS)
+        const ws = new WebSocket("wss://auto-labor-compliance-agent-production.up.railway.app/ws/audit");
         wsRef.current = ws;
 
         ws.onopen = () => {
