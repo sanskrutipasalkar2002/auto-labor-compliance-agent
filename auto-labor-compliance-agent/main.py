@@ -38,11 +38,26 @@ except ModuleNotFoundError as e:
 
 app = FastAPI(title="AutoLabor Compliance API")
 
-# Allow Frontend access
+# --- CORS CONFIG (Railway / Frontend Friendly) ---
+# If you know your exact frontend URL(s), set FRONTEND_ORIGINS env var:
+#   FRONTEND_ORIGINS="https://my-frontend.app,https://other.app"
+frontend_origins_env = os.getenv("FRONTEND_ORIGINS", "*")
+
+if frontend_origins_env == "*":
+    # Allow any origin, but WITHOUT credentials (cookies / auth headers),
+    # which is compatible with the CORS spec for wildcard origins.
+    cors_allow_origins = ["*"]
+    cors_allow_credentials = False
+else:
+    # Explicit list of allowed origins; credentials can be enabled safely.
+    cors_allow_origins = [o.strip() for o in frontend_origins_env.split(",") if o.strip()]
+    cors_allow_credentials = True
+
+# Allow Frontend access (including preflight OPTIONS)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
+    allow_origins=cors_allow_origins,
+    allow_credentials=cors_allow_credentials,
     allow_methods=["*"],
     allow_headers=["*"],
 )
