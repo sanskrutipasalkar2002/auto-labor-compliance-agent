@@ -1,0 +1,8 @@
+[phases.setup]
+nixPkgs = ["python310", "nodejs"]
+
+[phases.build]
+cmds = [
+  "pip install -r auto-labor-compliance-agent/requirements.txt",
+  "cd frontend && npm install && npm run build"
+]
