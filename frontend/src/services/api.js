@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE = 'auto-labor-compliance-agent-production.up.railway.app/api';
+const API_BASE = 'https://auto-labor-compliance-agent-production.up.railway.app/api';
 
 export const auditService = {
   initiateAudit: async (companyName) => {
