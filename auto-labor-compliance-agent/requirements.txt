@@ -1,29 +1,33 @@
-# --- Web API & Server (CRITICAL) ---
-fastapi>=0.109.0          # The Web Framework
-uvicorn[standard]>=0.27.0 # Server (Standard includes 'websockets')
+# --- Web API & Server (The Foundation) ---
+fastapi>=0.109.0          # Web Framework
+uvicorn[standard]>=0.27.0 # Server (Standard includes 'websockets' & 'uvloop')
 python-multipart>=0.0.9   # Required for file uploads
-websockets>=12.0          # Required for WebSocket endpoints
+websockets>=12.0          # Required for your WebSocket progress bar
 
-# --- PDF Processing (THE FIX FOR 'fitz' & 'reportlab') ---
-pymupdf>=1.23.0           # FIX: This installs the module 'fitz'
-reportlab>=4.0.0          # Required for generating PDF reports
-pdfplumber>=0.10.0        # Often used alongside fitz for table extraction
+# --- Advanced Document Parsing (THE MISSING PIECES) ---
+docling>=1.0.0            # FIX: Required for 'from docling.document_converter...'
+pymupdf>=1.23.0           # FIX: This installs 'import fitz'
+pdfplumber>=0.10.0        # Robust fallback for table extraction
+pypdf>=3.0.0              # Standard PDF utility often used by LangChain
 
-# --- Ingestion & Web Scraping ---
+# --- PDF Generation (Forensic Reports) ---
+reportlab>=4.0.0          # Required to generate the PDF reports
+
+# --- Ingestion & Web Scraping (WebHunter) ---
 requests>=2.31.0          # HTTP Client
 beautifulsoup4>=4.12.0    # HTML Parsing
-llama-parse>=0.4.0        # PDF Table Parsing
-llama-index-core>=0.10.0  # LlamaIndex Core
+llama-parse>=0.4.0        # Advanced table parsing for BRSR reports
+llama-index-core>=0.10.0  # Core logic for LlamaParse
 
 # --- Data Processing ---
 pandas>=2.0.0             # Data manipulation
 openpyxl>=3.1.2           # Excel support
 
-# --- AI & Orchestration ---
+# --- AI & Orchestration (The Agent) ---
 langchain>=0.1.0          # Agent Framework
 langchain-openai>=0.0.5   # OpenAI connection
-langgraph>=0.0.10         # State machine
-chromadb>=0.4.0           # Vector DB
+langgraph>=0.0.10         # State machine for the audit loop
+chromadb>=0.4.0           # Vector Database
 pydantic>=2.0.0           # Data validation
 
 # --- Utilities ---
