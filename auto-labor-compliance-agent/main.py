@@ -319,4 +319,11 @@ def run_audit(request: AuditRequest):
         raise HTTPException(status_code=500, detail=str(e))
 
 if __name__ == "__main__":
-    uvicorn.run(app, host="127.0.0.1", port=8000)
+    # CRITICAL FIX FOR RAILWAY:
+    # 1. Get the PORT environment variable (Railway sets this automatically)
+    # 2. Default to 8000 if running locally
+    port = int(os.environ.get("PORT", 8000))
+    
+    # 3. Host MUST be "0.0.0.0" to be accessible from the internet
+    #    "127.0.0.1" will BLOCK all external connections (causing 502 Error)
+    uvicorn.run(app, host="0.0.0.0", port=port)
