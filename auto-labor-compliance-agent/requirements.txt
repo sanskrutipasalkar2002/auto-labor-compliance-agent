@@ -3,6 +3,7 @@ fastapi>=0.109.0          # Web Framework
 uvicorn[standard]>=0.27.0 # Server (Standard includes 'websockets' & 'uvloop')
 python-multipart>=0.0.9   # Required for file uploads
 websockets>=12.0          # Required for your WebSocket progress bar
+streamlit>=1.31.0         # Dashboard UI for the audit console
 
 # --- Advanced Document Parsing (THE MISSING PIECES) ---
 docling>=1.0.0            # FIX: Required for 'from docling.document_converter...'
@@ -18,6 +19,8 @@ requests>=2.31.0          # HTTP Client
 beautifulsoup4>=4.12.0    # HTML Parsing
 llama-parse>=0.4.0        # Advanced table parsing for BRSR reports
 llama-index-core>=0.10.0  # Core logic for LlamaParse
+tavily-python>=0.3.0      # TavilyClient for web search
+yahooquery>=2.3.0         # Yahoo Finance API client
 
 # --- Data Processing ---
 pandas>=2.0.0             # Data manipulation
@@ -29,6 +32,10 @@ langchain-openai>=0.0.5   # OpenAI connection
 langgraph>=0.0.10         # State machine for the audit loop
 chromadb>=0.4.0           # Vector Database
 pydantic>=2.0.0           # Data validation
+langsmith>=0.1.0          # Tracing for pipelines and PDF parsing
+langchain-google-genai>=0.0.8  # Google Generative AI chat model
+langchain-community>=0.0.10    # Community integrations (e.g., TavilySearchResults)
+langchain-core>=0.1.0          # Core LangChain primitives
 
 # --- Utilities ---
 python-dotenv>=1.0.0      # Secrets management
